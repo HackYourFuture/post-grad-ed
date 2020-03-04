@@ -1,10 +1,18 @@
+> If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
+
+> Please help us improve and share your feedback! If you find better tutorials
+> or links, please share them by [opening a pull request](https://github.com/HackYourFuture/post-grad-ed/pulls).
+
 # Post Graduation Education
+
+![Postgrad](postgrad.png)
 
 Dear alumnus, congratulations on finishing the HackYourFuture 7 month program!
 
-In this repository you’ll find outlined a post graduation education curriculum. While you've learned the fundamentals of web development, the next step is to learn what it means to be a professional developer that gets jobs.
+In this repository you’ll find outlined a post graduation education curriculum. It's **optional** and serves as a structure for you to use whenever you want to prepare yourself for a job.
 
 There are a couple of things we can work on:
+
 (TECHNICAL)
 
 - Web Application development
@@ -17,46 +25,40 @@ There are a couple of things we can work on:
 - English fluency
 - Confidence & mindset
 
-## Technical
+Each week you'll do exercises in order to strengthen all these skills. You'll also practice solidifying the fundamentals of web development:
 
-### 1. Web Application development
-
-Resources:
-
-- [](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-- [](https://www.udemy.com/course/mern-stack-the-complete-guide/)
-
-Main concepts:
-
+- JavaScript fundamentals (basic syntax, event loop, OOP)
 - Validation
-- Authentication
+- Authentication & authorization
 - Client-server model
-- JSON (parsing, stringifying)
-- Server routing
+- The role of JSON (parse, stringify)
+- Server-side/client-side routing
 - Database modeling
 - Frontend state management
-- Modularization
-- Linting
-- Unit testing
-- Version control (GIT)
+- Code modularization
+- Working with external services/APIs
 
-### 2. Algorithmic thinking
+Use this list as a checklist. Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
 
-- [JavaScript Cardio 1](https://www.youtube.com/watch?v=M2bJBuaOeOQ)
-- [JavaScript Cardio 2](https://www.youtube.com/watch?v=FfchU1FS2IA)
-- [JavaScript Cardio 3](https://www.youtube.com/watch?v=tcoiPHktCwQ)
+## Accountability
 
-### 3. Technical assignment
+In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation.
 
-What
-Why
-How
+## Planning
 
-Resources:
-https://github.com/robvk/dh-frontend-assignment
+| Week | Topic                                                                                       | Homework                        |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------- |
+| 1.   | JavaScript Cardio I, Algorithms I, Application Development I, Technical Assignment I        | [Practice W1](/Week1/README.md) |
+| 2.   | JavaScript Cardio II, Algorithms II, Application Development II,                            | [Practice W2](/Week2/README.md) |
+| 3.   | JavaScript Cardio III, Algorithms III, Application Development III, Technical Assignment II | [Practice W3](/Week3/README.md) |
+| 4.   | JavaScript Cardio IV, Algorithms IV, Application Development IV,                            | [Practice W4](/Week4/README.md) |
 
-## Communication
+## Goal
 
-### 1. Explaining technical concepts
+The goal of this curriculum is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
 
-In order to pass the interview you need to be able to explain technical concepts clearly.
+Instead, your goal should be to become familiar with these topics and always keep on learning.
+
+_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

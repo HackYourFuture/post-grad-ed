@@ -60,7 +60,7 @@ In this bi-weekly assignment, you're asked to pick a technical assignment from [
 
 Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
 
-One tip before you start: imagine doing this for a real company.
+One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
 
 ### Finished?
 

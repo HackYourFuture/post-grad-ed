@@ -13,13 +13,13 @@ In this repository you’ll find outlined a post graduation education curriculum
 
 There are a couple of things we can work on:
 
-(TECHNICAL)
+**TECHNICAL**
 
 - Web Application development
 - Algorithmic thinking
 - Technical assignments
 
-(COMMUNICATION)
+**COMMUNICATION**
 
 - Explaining technical concepts
 - English fluency
@@ -57,7 +57,9 @@ In order to stay motivated it's good to hold yourself accountable. That's not al
 
 The goal of this curriculum is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
 
-Instead, your goal should be to become familiar with these topics and always keep on learning.
+Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
+
+Good luck and have fun!
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

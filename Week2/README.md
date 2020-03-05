@@ -31,6 +31,10 @@ To help you during the process, here are a list of questions you can keep in min
 - Am I able to articulate what's happening?
 - How is this application different/similar to my previous project?
 
+Like previous weeks, make a video explaining one concept you've learned most about during the development of this project. Post the video in the Slack channel!
+
 ### Finished?
 
 Keep yourself accountable! Post a message to the Slack channel mentioning your progress, and your number #1 key learning this week.
+
+> Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".

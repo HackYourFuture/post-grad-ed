@@ -33,7 +33,7 @@ In the following links you'll find several exercises to practice your algorithmi
 
 - [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### 2. Application Development I
+### 3. Application Development I
 
 As a starting developer it's very important to have a tight grip on the fundamentals. That's why you're going to build (another) full-stack application from scratch.
 
@@ -52,7 +52,9 @@ After you chose your pick, here's what you're going to do:
 
 Try and finish the first quarter of the course by the end of the week. Hold yourself accountable for your progress!
 
-### 3. Technical Assignment I
+Like in the Final Project module, make this week a video explaining one concept you've learned most about during the development of this project. Post the video in the Slack channel!
+
+### 4. Technical Assignment I
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
@@ -65,3 +67,5 @@ One tip before you start: imagine doing this for a real company. Because that's 
 ### Finished?
 
 Keep yourself accountable! Post a message to the Slack channel mentioning your progress, and your number #1 key learning this week.
+
+> Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".

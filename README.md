@@ -27,6 +27,7 @@ There are a couple of things we can work on:
 
 Each week you'll do exercises in order to strengthen all these skills. You'll also practice solidifying the fundamentals of web development:
 
+```md
 - JavaScript fundamentals (basic syntax, event loop, OOP)
 - Validation
 - Authentication & authorization
@@ -37,6 +38,7 @@ Each week you'll do exercises in order to strengthen all these skills. You'll al
 - Frontend state management
 - Code modularization
 - Working with external services/APIs
+```
 
 Use this list as a checklist. Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
 
@@ -49,9 +51,9 @@ In order to stay motivated it's good to hold yourself accountable. That's not al
 | Week | Topic                                                                                       | Homework                        |
 | ---- | ------------------------------------------------------------------------------------------- | ------------------------------- |
 | 1.   | JavaScript Cardio I, Algorithms I, Application Development I, Technical Assignment I        | [Practice W1](/Week1/README.md) |
-| 2.   | JavaScript Cardio II, Algorithms II, Application Development II,                            | [Practice W2](/Week2/README.md) |
+| 2.   | JavaScript Cardio II, Algorithms II, Application Development II                             | [Practice W2](/Week2/README.md) |
 | 3.   | JavaScript Cardio III, Algorithms III, Application Development III, Technical Assignment II | [Practice W3](/Week3/README.md) |
-| 4.   | JavaScript Cardio IV, Algorithms IV, Application Development IV,                            | [Practice W4](/Week4/README.md) |
+| 4.   | JavaScript Cardio IV, Algorithms IV, Application Development IV                             | [Practice W4](/Week4/README.md) |
 
 ## Goal
 

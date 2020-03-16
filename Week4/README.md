@@ -28,10 +28,21 @@ Do at least 5 of the following challenges:
 
 This week's the final quarter of the course. Have you enjoyed the process? While you might be very serious about getting a job, it's important to always keep in mind that `it's about the journey not the destination`. If you're not having fun while learning, you won't last long in the industry.
 
-Like previous weeks, make a video explaining one concept you've learned most about during the development of this project. Post the video in the Slack channel!
-
 ### Finished?
 
-Keep yourself accountable! Post a message to the Slack channel mentioning your progress, and your number #1 key learning this week.
+At the end of this week you need to deliver upon the following:
+
+1. A video explaining 1 concept you've learned about most about during the development of the project you're working on.
+
+Here are the requirements you have to fulfill:
+
+- A general high level explanation of the concept: how + why
+- A self-written code example that you analyse and explain step-by-step
+- The video should include both your screen and your webcam view (we want to see your face!)
+- It should be around 5 minutes
+
+2. Write out in 100 words or less your number #1 key lesson you learned this week.
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
+
+Post all of this in the Slack channel!

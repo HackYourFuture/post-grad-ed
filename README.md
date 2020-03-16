@@ -44,12 +44,6 @@ Each week you'll do exercises in order to strengthen all these skills. You'll al
 
 Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
 
-## How to use this repository
-
-Similar
-
-If you have any questions or if something is not entirely clear ¯\_(ツ)\_/¯, please ask/comment on Slack!
-
 ## Accountability
 
 In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation.

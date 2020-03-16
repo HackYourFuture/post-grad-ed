@@ -29,18 +29,26 @@ Each week you'll do exercises in order to strengthen all these skills. You'll al
 
 ```md
 - JavaScript fundamentals (basic syntax, event loop, OOP)
-- Validation
+- Form validation
+- HTTP
+- Synchronous versus asynchronous
 - Authentication & authorization
 - Client-server model
 - The role of JSON (parse, stringify)
-- Server-side/client-side routing
+- API routing/client-side routing
 - Database modeling
 - Frontend state management
 - Code modularization
 - Working with external services/APIs
 ```
 
-Use this list as a checklist. Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
+Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
+
+## How to use this repository
+
+Similar 
+
+If you have any questions or if something is not entirely clear ¯\_(ツ)\_/¯, please ask/comment on Slack!
 
 ## Accountability
 
@@ -62,6 +70,14 @@ The goal of this curriculum is NOT to go through it and finish "knowing" how to 
 Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
 
 Good luck and have fun!
+
+## Finished?
+
+Have you been through all the 4 weeks? You're amazing! Now all that's left is to find a job.
+
+However, before you apply there's a final thing to do...
+
+- []()
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

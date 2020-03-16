@@ -33,11 +33,13 @@ While you're doing it, I'd like you to reflect on the list of concepts shared wi
 
 ```md
 - JavaScript fundamentals (basic syntax, event loop, OOP)
-- Validation
+- Form validation
+- HTTP
+- Synchronous versus asynchronous
 - Authentication & authorization
 - Client-server model
 - The role of JSON (parse, stringify)
-- Server-side/client-side routing
+- API routing/client-side routing
 - Database modeling
 - Frontend state management
 - Code modularization

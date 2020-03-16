@@ -46,7 +46,7 @@ Ideally, in 4 weeks you should be very clear about what each of these concept me
 
 ## How to use this repository
 
-Similar 
+Similar
 
 If you have any questions or if something is not entirely clear ¯\_(ツ)\_/¯, please ask/comment on Slack!
 
@@ -77,7 +77,7 @@ Have you been through all the 4 weeks? You're amazing! Now all that's left is to
 
 However, before you apply there's a final thing to do...
 
-- []()
+- [Job Preparation Checklist](checklist.md)
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

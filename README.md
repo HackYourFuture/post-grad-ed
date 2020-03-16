@@ -44,9 +44,15 @@ Each week you'll do exercises in order to strengthen all these skills. You'll al
 
 Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
 
+## How to use this repository
+
+This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a paid web developer job.
+
 ## Accountability
 
 In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation.
+
+In addition we'll arrange for a mentor to supervise your learning. Each Sunday you'll check in with them to share your learnings and get feedback.
 
 ## Planning
 
@@ -62,6 +68,8 @@ In order to stay motivated it's good to hold yourself accountable. That's not al
 The goal of this curriculum is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
 
 Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
+
+If you've finished this module and you're
 
 Good luck and have fun!
 

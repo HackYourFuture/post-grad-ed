@@ -48,6 +48,8 @@ While you're doing it, I'd like you to reflect on the list of concepts shared wi
 
 Are you able to understand them better now? If asked, would you be able to explain each concept and also how it applies to your project?
 
+Keep committing your work to your remote repository. Practice makes perfect.
+
 ### 4. Technical Assignment II
 
 It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
@@ -58,7 +60,7 @@ Go back to [the list](./../technical-assignments/README.md) and choose another o
 
 At the end of this week you need to deliver upon the following:
 
-1. A video explaining 1 concept you've learned about most about during the development of the project you're working on (.
+1. A video explaining 1 concept you've learned about most about during the development of the project you're working on. Post the video in the Slack channel
 
 Here are the requirements you have to fulfill:
 
@@ -67,8 +69,8 @@ Here are the requirements you have to fulfill:
 - The video should include both your screen and your webcam view (we want to see your face!)
 - It should be around 5 minutes
 
-2. Write out in 100 words or less your number #1 key lesson you learned this week.
+2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the Slack channel
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
-Post all of this in the Slack channel!
+_DEADLINE SATURDAY 23.59 CET_

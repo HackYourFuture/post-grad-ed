@@ -50,7 +50,9 @@ After you chose your pick, here's what you're going to do:
 3. **Reflect on what you learn**.
 4. **Discuss with others what you've learned**
 
-Try and finish the first quarter of the course by the end of the week. Hold yourself accountable for your progress!
+When starting the course, create a GitHub repository and start tracking it. You want to get as much practice using GIT and GitHub in as possible, because that's exactly what you'll be doing in real life.
+
+Finally, try and finish the first quarter of the course by the end of the week. Hold yourself accountable for your progress!
 
 ### 4. Technical Assignment I
 
@@ -60,13 +62,15 @@ In this bi-weekly assignment, you're asked to pick a technical assignment from [
 
 Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
 
+Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
 
 ### Finished?
 
 At the end of this week you need to deliver upon the following:
 
-1. A video explaining 1 concept you've learned about most about during the development of the project you're working on (.
+1. A video explaining 1 concept you've learned about most about during the development of the project you're working on. Post the video in the Slack channel
 
 Here are the requirements you have to fulfill:
 
@@ -75,8 +79,8 @@ Here are the requirements you have to fulfill:
 - The video should include both your screen and your webcam view (we want to see your face!)
 - It should be around 5 minutes
 
-2. Write out in 100 words or less your number #1 key lesson you learned this week.
+2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the message in the Slack channel
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
-Post all of this in the Slack channel!
+_DEADLINE SATURDAY 23.59 CET_

@@ -32,7 +32,7 @@ Polish up your remote repository, make sure the code base is clean and presentab
 
 ### Finished?
 
-At the end of this week you need to deliver upon the following:
+At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
 
 1. A video explaining 1 concept you've learned about most about during the development of the project you're working on. Post the video in the Slack channel
 

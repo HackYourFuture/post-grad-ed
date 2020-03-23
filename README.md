@@ -50,7 +50,7 @@ This module is designed to be used alongside the [Getting your first job/interns
 
 ## Accountability
 
-In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation.
+In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation. It's called [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7).
 
 In addition we'll arrange for a mentor to supervise your learning. Each Sunday you'll check in with them to share your learnings and get feedback.
 

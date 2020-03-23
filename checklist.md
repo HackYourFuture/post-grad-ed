@@ -129,4 +129,6 @@ People would like to get to know you! Showing a professional look means that you
 
 Have you checked off all the above? Great job! Now it's time to apply for jobs. Please send a message in the HackYourFuture Slack channel about your progress and contact the partnership manager.
 
+[#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7)
+
 Let's go get that big developer money!!!

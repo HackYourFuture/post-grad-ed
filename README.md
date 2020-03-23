@@ -69,7 +69,7 @@ The goal of this curriculum is NOT to go through it and finish "knowing" how to 
 
 Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
 
-If you've finished this module and you're
+That said, that means there's no "finishing" this module. After the 4 weeks you can go back and restart again. The structure can be used over and over, while YOU can change the content. We've provided some suggestions, but if you have any other resources to use then do so!
 
 Good luck and have fun!
 

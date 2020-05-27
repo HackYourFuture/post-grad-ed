@@ -1,0 +1,25 @@
+{
+  "presets": [
+    "@babel/react",
+    [
+      "@babel/env",
+      {
+        "targets": {
+          "browsers": [">0.25%", "not op_mini all"]
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    [
+      "babel-plugin-root-import",
+      {
+        "rootPathSuffix": "./src",
+        "rootPathPrefix": "~"
+      }
+    ],
+    "babel-plugin-styled-components",
+    "react-hot-loader/babel"
+  ]
+}

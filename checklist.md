@@ -10,7 +10,7 @@ Here's what we need to look at:
 
 ## 1. Web Development Fundamentals
 
-Before you even try a job interview, it's very important that you have a clear understanding of the fundamental concepts. Here's an overview:
+Before you even try a job interview, it's very important that you have a clear understanding of the fundamental concepts. Here's an overview of some of the biggest concepts:
 
 ```md
 [] JavaScript fundamentals (basic syntax, event loop, OOP)

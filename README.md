@@ -11,59 +11,60 @@ Dear alumnus, congratulations on finishing the HackYourFuture 7 month program!
 
 In this repository you’ll find outlined a post graduation education curriculum. It's **optional** and serves as a structure for you to use whenever you want to prepare yourself for a job.
 
-There are a couple of things we can work on:
+Here's what you'll work on:
 
 **TECHNICAL**
 
-- Web Application development
-- Algorithmic thinking
-- Technical assignments
+-   Web Application development
+-   Algorithmic thinking
 
 **COMMUNICATION**
 
-- Explaining technical concepts
-- English fluency
-- Confidence & mindset
+-   Explaining technical concepts
+-   English fluency
+-   Confidence & mindset
 
 Each week you'll do exercises in order to strengthen all these skills. You'll also practice solidifying the fundamentals of web development:
 
 ```md
-- JavaScript fundamentals (basic syntax, event loop, OOP)
-- Form validation
-- HTTP
-- Synchronous versus asynchronous
-- Authentication & authorization
-- Client-server model
-- The role of JSON (parse, stringify)
-- API routing/client-side routing
-- Database modeling
-- Frontend state management
-- Code modularization
-- Working with external services/APIs
+-   JavaScript fundamentals (basic syntax, event loop, OOP)
+-   Form validation
+-   HTTP
+-   Synchronous versus asynchronous
+-   Authentication & authorization
+-   Client-server model
+-   The role of JSON (parse, stringify)
+-   API routing/client-side routing
+-   Database modeling
+-   Frontend state management
+-   Code modularization
+-   Working with external services/APIs
 ```
 
 Ideally, in 4 weeks you should be very clear about what each of these concept mean and what their role is in application development.
+
+Additionally, every week you'll receive a **questionnaire** containing questions that will challenge you to think about what you want out of your career. This will help you become more fluent and confident in presenting yourself in a job interview.
 
 ## How to use this repository
 
 This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a paid web developer job.
 
-## Accountability
+## Mentorship & accountability
 
 In order to stay motivated it's good to hold yourself accountable. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation. It's called [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7).
 
-In addition we'll arrange for a mentor to supervise your learning. Each Sunday you'll check in with them to share your learnings and get feedback.
+In addition we'll arrange for a mentor to supervise your learning. Each Sunday you'll check in with them to share your learnings and get feedback. 
 
 ## Planning
 
-| Week | Topic                                                                                       | Homework                        |
-| ---- | ------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1.   | JavaScript Cardio I, Algorithms I, Application Development I, Technical Assignment I        | [Practice W1](/Week1/README.md) |
-| 2.   | JavaScript Cardio II, Algorithms II, Application Development II                             | [Practice W2](/Week2/README.md) |
-| 3.   | JavaScript Cardio III, Algorithms III, Application Development III, Technical Assignment II | [Practice W3](/Week3/README.md) |
-| 4.   | JavaScript Cardio IV, Algorithms IV, Application Development IV                             | [Practice W4](/Week4/README.md) |
+| Week | Topic                                                          | Homework                        |
+| ---- | -------------------------------------------------------------- | ------------------------------- |
+| 1.   | JavaScript Cardio I, Algorithms I, Technical Assignment I      | [Practice W1](/Week1/README.md) |
+| 2.   | JavaScript Cardio II, Algorithms II, Technical Assignment I    | [Practice W2](/Week2/README.md) |
+| 3.   | JavaScript Cardio III, Algorithms III, Technical Assignment II | [Practice W3](/Week3/README.md) |
+| 4.   | JavaScript Cardio IV, Algorithms IV, Technical Assignment II   | [Practice W4](/Week4/README.md) |
 
-## Goal
+## Goal of the module
 
 The goal of this curriculum is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
 
@@ -79,7 +80,7 @@ Have you been through all the 4 weeks? You're amazing! Now all that's left is to
 
 However, before you apply there's a final thing to do...
 
-- [Job Preparation Checklist](checklist.md)
+-   [Job Preparation Checklist](checklist.md)
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

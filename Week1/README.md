@@ -4,8 +4,8 @@
 
 1. JavaScript Cardio I
 2. Algorithms I
-3. Application Development I
-4. Technical Assignment I
+3. Technical Assignment
+4. Developer skills: Code reviews
 
 ### 1. JavaScript Cardio I
 
@@ -33,28 +33,7 @@ In the following links you'll find several exercises to practice your algorithmi
 
 - [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### 3. Application Development I
-
-As a starting developer it's very important to have a tight grip on the fundamentals. That's why you're going to build (another) full-stack application from scratch.
-
-Choose any one of the following courses and stick to it for the next 4 weeks:
-
-- [Build a Placesharer Application](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-- [Build an Ecommerce Application](https://www.udemy.com/course/mern-stack-the-complete-guide/)
-- [Build a Social Networking Application](https://www.udemy.com/course/mern-stack-front-to-back/)
-
-After you chose your pick, here's what you're going to do:
-
-1. **Make a plan**. Divide the course into 4 blocks. Make sure there's enough content for each week.
-2. **Code along and play around**.
-3. **Reflect on what you learn**.
-4. **Discuss with others what you've learned**
-
-When starting the course, create a GitHub repository and start tracking it. You want to get as much practice using GIT and GitHub in as possible, because that's exactly what you'll be doing in real life.
-
-Finally, try and finish the first quarter of the course by the end of the week. Hold yourself accountable for your progress!
-
-### 4. Technical Assignment I
+### 3. Technical Assignment I
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
@@ -65,6 +44,19 @@ Doing this will help you become familiar with the process and give you a sense o
 Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
 
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
+
+### 4. Developer skills: Planning your project
+
+- [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
+- [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
+
+### 4. Developer skills: Code reviews
+
+An absolute essential skill of a great developer is the ability to do code reviews
+
+- [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
+
+### 5. Questionnaire
 
 ### Finished?
 

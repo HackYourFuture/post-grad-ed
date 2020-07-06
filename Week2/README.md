@@ -4,13 +4,13 @@
 
 1. JavaScript Cardio II
 2. Algorithms II
-3. Application Development II
+3. Technical Assignment I
 
 ### 1. JavaScript Cardio
 
 We'll continue with more JavaScript Cardio. You'll be doing several algorithm challenges. Code along with the instructor and play around with the solutions.
 
-- [JavaScript Cardio 1](https://www.youtube.com/watch?v=M2bJBuaOeOQ)
+-   [JavaScript Cardio 1](https://www.youtube.com/watch?v=M2bJBuaOeOQ)
 
 ### 2. Algorithms II
 
@@ -18,18 +18,18 @@ Let's continue with more algorithm challenges. Like last week, try to solve at l
 
 Do research, try to think step-by-step. And always remember that there are multiple solutions to the same problem.
 
-- [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+-   [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### 3. Application Development II
+### 3. Technical Assignment I
 
-Continue with the second part of your chosen course. Have you gained any new insights so far? Write them down! You want to keep track of these, as it will help you retain what you're learning.
+Continue with the technical assignment. Have you gained any new insights so far? Write them down! You want to keep track of these, as it will help you retain what you're learning.
 
 To help you during the process, here are a list of questions you can keep in mind to accelerate learning:
 
-- Why is this (not) working?
-- How does this concept relate to that concept?
-- Am I able to articulate what's happening?
-- How is this application different/similar to my previous project?
+-   Why is this (not) working?
+-   How does this concept relate to that concept?
+-   Am I able to articulate what's happening?
+-   How is this application different/similar to my previous project?
 
 Make sure you keep your remote repository up to date. Commit regularly!
 
@@ -43,10 +43,10 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 Here are the requirements you have to fulfill:
 
-- A general high level explanation of the concept: how + why
-- A self-written code example that you analyse and explain step-by-step
-- The video should include both your screen and your webcam view (we want to see your face!)
-- It should be around 5 minutes
+-   A general high level explanation of the concept: how + why
+-   A self-written code example that you analyse and explain step-by-step
+-   The video should include both your screen and your webcam view (we want to see your face!)
+-   It should be around 5 minutes
 
 2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the Slack channel
 

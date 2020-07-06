@@ -4,14 +4,13 @@
 
 1. JavaScript Cardio III
 2. Algorithms III
-3. Application Development III
-4. Technical Assignment II
+3. Technical Assignment II
 
 ### 1. JavaScript Cardio
 
 It's time for some more Cardio! Follow the instructor and code along. A useful tip while learning is this: don't just brainlessly follow along. Instead, question what he's doing: why this way and not that way?
 
-- [JavaScript Cardio 2](https://www.youtube.com/watch?v=FfchU1FS2IA)
+-   [JavaScript Cardio 2](https://www.youtube.com/watch?v=FfchU1FS2IA)
 
 ### 2. Algorithms III
 
@@ -23,38 +22,36 @@ Here's the secret behind algorithm challenges: **they're actually solutions to c
 
 Do at least 5 of the following challenges:
 
-- [Intermediate Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+-   [Intermediate Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
-### 3. Application Development III
+### 3. Technical Assignment II
+
+It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
+
+Go back to [the list](./../technical-assignments/README.md) and choose another one.
 
 You're now 50% in! You're doing great! Let's continue this week with the third part of the course.
 
 While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
 
 ```md
-- JavaScript fundamentals (basic syntax, event loop, OOP)
-- Form validation
-- HTTP
-- Synchronous versus asynchronous
-- Authentication & authorization
-- Client-server model
-- The role of JSON (parse, stringify)
-- API routing/client-side routing
-- Database modeling
-- Frontend state management
-- Code modularization
-- Working with external services/APIs
+-   JavaScript fundamentals (basic syntax, event loop, OOP)
+-   Form validation
+-   HTTP
+-   Synchronous versus asynchronous
+-   Authentication & authorization
+-   Client-server model
+-   The role of JSON (parse, stringify)
+-   API routing/client-side routing
+-   Database modeling
+-   Frontend state management
+-   Code modularization
+-   Working with external services/APIs
 ```
 
 Are you able to understand them better now? If asked, would you be able to explain each concept and also how it applies to your project?
 
 Keep committing your work to your remote repository. Practice makes perfect.
-
-### 4. Technical Assignment II
-
-It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
-
-Go back to [the list](./../technical-assignments/README.md) and choose another one.
 
 ### Finished?
 
@@ -64,10 +61,10 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 Here are the requirements you have to fulfill:
 
-- A general high level explanation of the concept: how + why
-- A self-written code example that you analyse and explain step-by-step
-- The video should include both your screen and your webcam view (we want to see your face!)
-- It should be around 5 minutes
+-   A general high level explanation of the concept: how + why
+-   A self-written code example that you analyse and explain step-by-step
+-   The video should include both your screen and your webcam view (we want to see your face!)
+-   It should be around 5 minutes
 
 2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the Slack channel
 

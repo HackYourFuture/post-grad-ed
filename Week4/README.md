@@ -4,7 +4,9 @@
 
 1. JavaScript Cardio IV
 2. Algorithms IV
-3. Application Development IV
+3. Developer skills: Unit testing
+4. Technical Assignment II
+5. Questionnaire IV
 
 ### 1. JavaScript Cardio IV
 
@@ -24,11 +26,17 @@ Do at least 5 of the following challenges:
 
 - [Intermediate Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
-### 3. Application Development IV
+### 3. Developer skills: Unit testing
 
-This week's the final quarter of the course. Have you enjoyed the process? While you might be very serious about getting a job, it's important to always keep in mind that `it's about the journey not the destination`. If you're not having fun while learning, you won't last long in the industry.
+- [JavaScript Testing Introduction Tutorial](https://www.youtube.com/watch?v=r9HdJ8P6GQI)
 
-Polish up your remote repository, make sure the code base is clean and presentable. This is now another portfolio project you can show others!
+### 4. Technical Assignment II
+
+This is the final week you'll work on this assignment.
+
+### 5. Questionnaire IV
+
+- [Week 4 Questionnaire](https://hackyourfuture.typeform.com/to/SoSrhfM9)
 
 ### Finished?
 
@@ -48,7 +56,5 @@ Here are the requirements you have to fulfill:
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
 3. Submit your technical assignment from week 3 as a pull request to the repository. Post the URL in the Slack channel
-
-4. Submit your codebase from the project you made in the "Application Development" section. Post the URL in the Slack channel
 
 _DEADLINE SATURDAY 23.59 CET_

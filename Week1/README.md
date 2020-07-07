@@ -4,8 +4,9 @@
 
 1. JavaScript Cardio I
 2. Algorithms I
-3. Technical Assignment
-4. Developer skills: Code reviews
+3. Developer skills: Code reviews
+4. Technical Assignment I
+5. Questionnaire I
 
 ### 1. JavaScript Cardio I
 
@@ -22,7 +23,7 @@ Thinking algorithmically is an essential part of a developer's mental toolkit. B
 
 > An algorithm is a specific set of steps that can be used to solve a (coding) problem.
 
-From this we can infer that `thinking algorithmically` refers to the ability of thinking in steps. Applied to programming, it means:
+From this we can infer that `thinking algorithmically` refers to **the ability of thinking in steps**. Applied to programming, it means:
 
 - Splitting a problem up into smaller problems to solve easily.
 - Translating the steps into code
@@ -33,7 +34,12 @@ In the following links you'll find several exercises to practice your algorithmi
 
 - [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### 3. Technical Assignment I
+### 3. Developer skills: Planning your project
+
+- [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
+- [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
+
+### 4. Technical Assignment I
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
@@ -45,18 +51,17 @@ Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CE
 
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
 
-### 4. Developer skills: Planning your project
+### 5. Questionnaire I
 
-- [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
-- [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
+Every week you'll be doing a questionnaire. These contain questions that are meant to challenge you and help make explicit what you want out of your career.
 
-### 4. Developer skills: Code reviews
+The more you think about this and become aware of what you want, the better you'll do in an interview!
 
-An absolute essential skill of a great developer is the ability to do code reviews
+The key is to be as honest and elaborate as possible. This means: take all the time you need to answer the questions.
 
-- [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
+The theme of this week is: "Why do I want to be a software developer"?
 
-### 5. Questionnaire
+- [Week 1 Questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5)
 
 ### Finished?
 

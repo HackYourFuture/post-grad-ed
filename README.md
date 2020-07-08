@@ -31,10 +31,10 @@ These are the skills you're going to work on:
 
 Each week you'll do exercises in order to strengthen all these skills:
 
-- JavaScript cardio: In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along
-- Algorithms: In these exercises you'll practice your ability to think in steps, by doing programming challenges
-- Technical assignments: This is the bulk of this module. You'll prepare for the job interview process, by making **real** technical assignments that come from **real** companies.
-- Questionnaire: every week you'll receive a **questionnaire** containing questions that will challenge you to think about what you want out of your career. This will help you become more fluent and confident in presenting yourself in a job interview.
+- **JavaScript cardio**: In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along
+- **Algorithms**: In these exercises you'll practice your ability to think in steps, by doing programming challenges
+- **Technical assignments**: This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies.
+- **Questionnaire**: every week you'll receive a questionnaire containing questions that will challenge you to think about what you want out of your career. This will help you become more fluent and confident in presenting yourself in a job interview.
 
 In the final week you are asked to record a "video job application". This will be the your test to see to what degree you are able to present yourself professionally and confidently.
 

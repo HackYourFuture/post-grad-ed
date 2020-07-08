@@ -39,6 +39,13 @@ Go back to [the list](./../technical-assignments/README.md) and choose another o
 
 You're now 50% in! You're doing great! Let's continue this week with the third part of the course.
 
+Follow the instructions:
+
+- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
+- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
+- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Discuss with your classmate whenever you're stuck
+
 While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
 
 ```md

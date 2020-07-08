@@ -42,10 +42,7 @@ This is the final week you'll work on your technical assignment. Did you learn a
 
 Like previous weeks, have your classmate help correct your incorrect code by reviewing your code. The same thing you'll do with their code.
 
-Here are the instructions again:
-
-```md
-```
+Good luck!
 
 ### 5. Questionnaire IV
 

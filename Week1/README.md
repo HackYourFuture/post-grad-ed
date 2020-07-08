@@ -4,8 +4,9 @@
 
 1. JavaScript Cardio I
 2. Algorithms I
-3. Application Development I
+3. Developer skills: Code reviews
 4. Technical Assignment I
+5. Questionnaire I
 
 ### 1. JavaScript Cardio I
 
@@ -22,7 +23,7 @@ Thinking algorithmically is an essential part of a developer's mental toolkit. B
 
 > An algorithm is a specific set of steps that can be used to solve a (coding) problem.
 
-From this we can infer that `thinking algorithmically` refers to the ability of thinking in steps. Applied to programming, it means:
+From this we can infer that `thinking algorithmically` refers to **the ability of thinking in steps**. Applied to programming, it means:
 
 - Splitting a problem up into smaller problems to solve easily.
 - Translating the steps into code
@@ -33,38 +34,39 @@ In the following links you'll find several exercises to practice your algorithmi
 
 - [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### 3. Application Development I
+### 3. Developer skills: Planning your project
 
-As a starting developer it's very important to have a tight grip on the fundamentals. That's why you're going to build (another) full-stack application from scratch.
+Before starting any project, the first step is to **make a plan**. Doing this for a web application takes a specific process. Learn more about that here:
 
-Choose any one of the following courses and stick to it for the next 4 weeks:
-
-- [Build a Placesharer Application](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-- [Build an Ecommerce Application](https://www.udemy.com/course/mern-stack-the-complete-guide/)
-- [Build a Social Networking Application](https://www.udemy.com/course/mern-stack-front-to-back/)
-
-After you chose your pick, here's what you're going to do:
-
-1. **Make a plan**. Divide the course into 4 blocks. Make sure there's enough content for each week.
-2. **Code along and play around**.
-3. **Reflect on what you learn**.
-4. **Discuss with others what you've learned**
-
-When starting the course, create a GitHub repository and start tracking it. You want to get as much practice using GIT and GitHub in as possible, because that's exactly what you'll be doing in real life.
-
-Finally, try and finish the first quarter of the course by the end of the week. Hold yourself accountable for your progress!
+- [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
+- [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
 
 ### 4. Technical Assignment I
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
-In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks.
+In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks. Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
 
-Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
+Follow the instructions:
 
-Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
+- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
+- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Discuss with your classmate whenever you're stuck
 
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
+
+### 5. Questionnaire I
+
+Every week you'll be doing a questionnaire. These contain questions that are meant to challenge you and help make explicit what you want out of your career.
+
+The more you think about this and become aware of what you want, the better you'll do in an interview!
+
+The key is to be as honest and elaborate as possible. This means: take all the time you need to answer the questions.
+
+The theme of this week is: "Why do I want to be a software developer"?
+
+- [Week 1 Questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5)
 
 ### Finished?
 
@@ -82,5 +84,9 @@ Here are the requirements you have to fulfill:
 2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the message in the Slack channel
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
+
+3. Already make a pull request with including the current state of your technical assigment code.
+
+4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
 _DEADLINE SATURDAY 23.59 CET_

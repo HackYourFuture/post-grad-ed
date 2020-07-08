@@ -4,8 +4,9 @@
 
 1. JavaScript Cardio III
 2. Algorithms III
-3. Application Development III
+3. Developer skills: Writing documentation
 4. Technical Assignment II
+5. Questionnaire III
 
 ### 1. JavaScript Cardio
 
@@ -25,9 +26,25 @@ Do at least 5 of the following challenges:
 
 - [Intermediate Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
-### 3. Application Development III
+### 3. Developer skills: Writing documentation
+
+- [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
+- [How To Use Developer Documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0)
+
+### 4. Technical Assignment II
+
+It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
+
+Go back to [the list](./../technical-assignments/README.md) and choose another one.
 
 You're now 50% in! You're doing great! Let's continue this week with the third part of the course.
+
+Follow the instructions:
+
+- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
+- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
+- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Discuss with your classmate whenever you're stuck
 
 While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
 
@@ -50,11 +67,13 @@ Are you able to understand them better now? If asked, would you be able to expla
 
 Keep committing your work to your remote repository. Practice makes perfect.
 
-### 4. Technical Assignment II
+### 5. Questionnaire III
 
-It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
+This week you'll be challenged to think about your aspiration as a developer. What type of developer would you like to be, and where do you see yourself working?
 
-Go back to [the list](./../technical-assignments/README.md) and choose another one.
+The theme of this week is: "What type of developer do I want to be?"
+
+- [Week 3 Questionnaire](https://hackyourfuture.typeform.com/to/h3rsXpWq)
 
 ### Finished?
 
@@ -72,5 +91,9 @@ Here are the requirements you have to fulfill:
 2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the Slack channel
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
+
+3. Already make a pull request with including the current state of your technical assigment code.
+
+4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
 _DEADLINE SATURDAY 23.59 CET_

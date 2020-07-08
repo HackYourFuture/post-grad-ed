@@ -13,12 +13,14 @@ Here's what we need to look at:
 Before you even try a job interview, it's very important that you have a clear understanding of the fundamental concepts. Here's an overview of some of the biggest concepts:
 
 ```md
-[] JavaScript fundamentals (basic syntax, event loop, OOP)
+[] JavaScript fundamentals (basic syntax, event loop, Promises, OOP)
 [] Form validation
 [] HTTP
 [] Synchronous versus asynchronous
 [] Authentication & authorization
 [] Client-server model
+[] Deployment
+[] Ability to read documentation
 [] The role of JSON (parse, stringify)
 [] API routing/client-side routing
 [] Database modeling
@@ -29,9 +31,9 @@ Before you even try a job interview, it's very important that you have a clear u
 
 You need to have mastered all of these. You must be able to:
 
-- explain each concept clearly and concisely
-- write it out in code
-- understand how each concept relates to another
+- Explain each concept clearly and concisely
+- Write it out in code (if this applies)
+- Understand how each concept relates to another
 
 As long as you're not able to do so there's still work to be done!
 
@@ -124,6 +126,10 @@ After you've done all of this are you ready to put the URL on your CV.
 7. Have you included a professional picture?
 
 People would like to get to know you! Showing a professional look means that you take yourself seriously, which means others will do as well. Note: if you don't have such a picture, it's best to don't include any picture.
+
+## Finding help
+
+Do you need help to get clear on any of these points? Let someone know! Your mentor, classmates and the HackYourFuture team are here to help you. Just post a message in [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7) and you'll receive help as soon as possible.
 
 ## Finished?
 

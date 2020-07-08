@@ -68,6 +68,8 @@ Here are the requirements you have to fulfill:
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
-3. Submit your technical assignment from week 1 as a pull request to the repository. Post the URL in the Slack channel
+3. Finalize your pull request by pushing your final code for the technical assignment
+
+4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
 _DEADLINE SATURDAY 23.59 CET_

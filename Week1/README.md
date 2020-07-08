@@ -36,6 +36,8 @@ In the following links you'll find several exercises to practice your algorithmi
 
 ### 3. Developer skills: Planning your project
 
+Before starting any project, the first step is to **make a plan**. Doing this for a web application takes a specific process. Learn more about that here:
+
 - [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
 - [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
 
@@ -43,11 +45,14 @@ In the following links you'll find several exercises to practice your algorithmi
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
-In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks.
+In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks. Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
 
-Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
+Follow the instructions:
 
-Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
+- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
+- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Discuss with your classmate whenever you're stuck
 
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
 
@@ -79,5 +84,9 @@ Here are the requirements you have to fulfill:
 2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the message in the Slack channel
 
 > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
+
+3. Already make a pull request with including the current state of your technical assigment code.
+
+4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
 _DEADLINE SATURDAY 23.59 CET_

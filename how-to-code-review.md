@@ -8,7 +8,7 @@ Before we start the code review, we have to know where do it. Follow the steps:
 
 1. Go to the repository that contains the pull requests you want to review. In our case that's [/hackyourfuture/post-grad-ed](https://github.com/hackyourfuture/post-grad-ed/):
 
-![Postgrad Repository](./assets/steps1.png)
+![Postgrad Repository](./assets/step1.png)
 
 2. Click on the "Pull requests" tab:
 

@@ -57,9 +57,13 @@ Having said that, please keep in mind that the mentor won’t be an active parti
 
 In addition, you should also keep yourself accountable by communicating with other classmates. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation. It's called [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7).
 
-## Schedule
+### Performance review
 
+At the end of the Post Graduation Module, your mentor will conduct a **performance review** to provide you with feedback on how you performed in the past 4 weeks and how you can improve moving forward. The general factors to be evaluated are:
 
+1. **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
+2. **Communication**: Do you communicates clearly with both colleagues and mentors? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
+3. **Responsibility**: Are you on time for meetings? And do you submit the homework before the deadline? Are your peer-reviews done on time? Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
 
 ## Planning
 

@@ -45,13 +45,15 @@ Before starting any project, the first step is to **make a plan**. Doing this fo
 
 When applying for jobs a company most likely will give you a technical assignment to do. Why? They want to test your skills.
 
-In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks. Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
+In this bi-weekly assignment, you're asked to pick a technical assignment from [this list](./../technical-assignments/README.md) and work on it for two weeks. The first week will be dedicated to finishing the complete assignment. The second will be used to add at least 3 features on top of the application you've build.
+
+Doing this will help you become familiar with the process and give you a sense of what companies are expecting you to be able to do.
 
 Follow the instructions:
 
-- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
-- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
-- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Pick a technical assignment from the first [folder](./../technical-assignments/1). Take one that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
+- Make a plan of action of how you're going to approach this assignment (use the aforementioned resources and do your own research)
+- Complete the assignment before **this Saturday 23.59 CET**. In the meanwhile you can already start thinking about features you'd like to add
 - Discuss with your classmate whenever you're stuck
 
 One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
@@ -72,21 +74,14 @@ The theme of this week is: "Why do I want to be a software developer"?
 
 At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
 
-1. A video explaining 1 concept you've learned about most about during the development of the project you're working on. Post the video in the Slack channel
+1. Write out in 100 words or less your number #1 key lesson you learned this week
 
-Here are the requirements you have to fulfill:
+   > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
-- A general high level explanation of the concept: how + why
-- A self-written code example that you analyse and explain step-by-step
-- The video should include both your screen and your webcam view (we want to see your face!)
-- It should be around 5 minutes
+2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the message in the Slack channel
+3) Already make a pull request with including the current state of your technical assigment code
 
-> Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
-
-3. Already make a pull request with including the current state of your technical assigment code.
-
-4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
+4) Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
 _DEADLINE SATURDAY 23.59 CET_

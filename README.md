@@ -1,5 +1,7 @@
 > If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
+> This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a web developer job/internship.
+
 > Please help us improve and share your feedback! If you find better tutorials
 > or links, please share them by [opening a pull request](https://github.com/HackYourFuture/post-grad-ed/pulls).
 
@@ -38,22 +40,26 @@ Each week you'll do exercises in order to strengthen all these skills:
 
 In the final week you are asked to record a "video job application". This will be the your test to see to what degree you are able to present yourself professionally and confidently.
 
-> This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a web developer internship/job.
-
 ## Mentorship & accountability
-
-In this module you'll be paired up with a mentor, an established senior developer that will guide you along in the process of preparing for a job. Each Sunday you'll check in with them to share your learnings and get feedback. Depending on their availability they can also provide help (remotely) during the week.
-
-The mentor can help you face dilemmas on how to approach the projects, will give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module. Having said that, please keep in mind that the mentor won’t be an active participant of this practice but will respond to your requests. It is **YOUR** responsibility to ask for help and to make the best out of this opportunity.
 
 During this module we expect you to behave like a **professional developer**. This means that:
 
 - You have meet deadlines
-- If for any reason you are late with you submissions, you need to communicate with your mentors and colleagues. 
+- If for any reason you are late with you submissions, you need to communicate with your mentors and colleagues.
 
-Failing to do this more than once will automatically drop you from this program and you will have to wait until a new edition starts. We as HYF as well as your mentors are available to help you go through this process but it is your responsibility to make it a success. Think of this module as a real job. If you fail to deliver in time and to communicate you will get yourself and your team in trouble. 
+Failing to do this more than once will automatically drop you from this program and you will have to wait until a new edition starts. We as HackYourFuture as well as your mentors are available to help you go through this process but it is your responsibility to make it a success. Think of this module as a real job. If you fail to deliver in time and to communicate you will get yourself and your team in trouble.
+
+At the start of this module you'll be paired up with a mentor, an established senior developer that will guide you along in the process of preparing for a job.
+
+It's important that you make good use of this mentor: they can help you face dilemmas on how to approach the projects, will give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module.
+
+Having said that, please keep in mind that the mentor won’t be an active participant of this practice but will respond to your requests. It is **YOUR** responsibility to ask for help and to make the best out of this opportunity.
 
 In addition, you should also keep yourself accountable by communicating with other classmates. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation. It's called [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7).
+
+## Schedule
+
+
 
 ## Planning
 

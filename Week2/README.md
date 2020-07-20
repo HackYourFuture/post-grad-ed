@@ -55,18 +55,11 @@ The theme of this week is: "How are my interpersonal skills?"
 
 At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
 
-1. A video explaining 1 concept you've learned about most about during the development of the project you're working on. Post the video in the Slack channel
+1. Write out in 100 words or less your number #1 key lesson you learned this week
 
-Here are the requirements you have to fulfill:
+   > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
 
-- A general high level explanation of the concept: how + why
-- A self-written code example that you analyse and explain step-by-step
-- The video should include both your screen and your webcam view (we want to see your face!)
-- It should be around 5 minutes
-
-2. Write out in 100 words or less your number #1 key lesson you learned this week. Post the message in the Slack channel
-
-> Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
+2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
 3. Finalize your pull request by pushing your final code for the technical assignment
 

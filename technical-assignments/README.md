@@ -2,7 +2,7 @@
 
 Technical assignments are an essential part of the job application process. At first it might seem like a daunting challenge, but understanding the mechanics and learning the right approach will help you feel more relaxed about it. This in turn will help you increase your chance of getting the job!
 
-**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact our Education Director. We will help you out, make a plan and ensure that you do as well as possible on the assignment.
+**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact your mentor or Education Director. They will help you out, make a plan and ensure that you do as well as possible on the assignment.
 
 ## The why of TAs
 
@@ -41,9 +41,9 @@ This timeliness is important, because it shows several things: are you able to d
 
 You're probably reading this and thinking: "how the hell am I going to do this? I have no idea of what to expect!"
 
-First, take a breath. You **always** function better when you're calm. 
+First, take a breath. You **always** function better when you're calm. After having calmed down, you should think the following: I will do the best I can at this stage of my ability.
 
-And if you do fail, that's ok. You are here to learn and these assignments just serve to show you what your current skill level is. Take the lesson and try again!
+If you do fail, that's ok. You are here to learn and these assignments just serve to show you what your current skill level is. Take the lesson and try again!
 
 Also, if you receive a technical assignment for a job application, **always ask for help!** We have experienced that many students feel they have to do the technical assignment by themselves and are afraid to ask for help. Please do ask for our support. If you get stuck during the assignment you might miss out on a job!
 

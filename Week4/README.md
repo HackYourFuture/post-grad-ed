@@ -102,6 +102,10 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 5. The "video job application". It should contain the answers to the questions mentioned above, and presented in a clear and professional way
 
-After you are done with all your submissions, **connect with you mentor to receive a performance review**. Template can be found [here](./../performance-review-template.md). This will have very valuable information on how you performed during this module and what can you do to improve moving forward.
+After you are done with all your submissions, you should start the performance review. You can find it here:
+
+- [Performance Review](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy)
+
+ This will have valuable information on how you performed during this module and what can you do to improve moving forward.
 
 _DEADLINE SATURDAY 23.59 CET_

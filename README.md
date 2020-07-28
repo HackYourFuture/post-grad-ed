@@ -65,6 +65,10 @@ At the end of the Post Graduation Module, your mentor will conduct a **performan
 2. **Communication**: Do you communicates clearly with both colleagues and mentors? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
 3. **Responsibility**: Are you on time for meetings? And do you submit the homework before the deadline? Are your peer-reviews done on time? Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
 
+Here you can already find a link to the survey:
+
+- [Performance Review](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy)
+
 ## Planning
 
 | Week | Topic                                                                               | Homework                        |

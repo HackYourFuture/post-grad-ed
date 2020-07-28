@@ -28,7 +28,7 @@ Do at least 5 of the following challenges:
 
 ### 3. Developer skills: Writing documentation
 
-Another important developer skill is to ability to **write** documentation. In practice you would usually only **use** documentation, but 
+Another important developer skill is to ability to **write** documentation. In practice you would usually only **use** documentation, but
 
 - [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
 - [How To Use Developer Documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0)
@@ -37,7 +37,7 @@ Another important developer skill is to ability to **write** documentation. In p
 
 It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
 
-Go back to [the list](./../technical-assignments/README.md) and choose another one.
+Go to the second [list](./../technical-assignments/w3-w4) and choose a new technical assignment. Be sure you and your team member agree on the same one.
 
 You're now 50% in! You're doing great! Let's continue this week with the third part of the course.
 
@@ -45,7 +45,7 @@ Follow the instructions:
 
 - Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
 - Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
-- Work on this assignment for two weeks. **Deadline is next week Saturday 23.59 CET.**
+- Work on this assignment for two weeks. **Deadline is next week FRIDAY 23.59 CET.**
 - Discuss with your classmate whenever you're stuck
 
 While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
@@ -91,4 +91,4 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
-_DEADLINE SATURDAY 23.59 CET_
+_DEADLINE FRIDAY 23.59 CET_

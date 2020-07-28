@@ -65,4 +65,4 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
 
-_DEADLINE SATURDAY 23.59 CET_
+_DEADLINE FRIDAY 23.59 CET_

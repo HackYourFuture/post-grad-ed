@@ -104,4 +104,4 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 After you are done with all your submissions, **connect with you mentor to receive a performance review**. Template can be found [here](./../performance-review-template.md). This will have very valuable information on how you performed during this module and what can you do to improve moving forward.
 
-_DEADLINE SATURDAY 23.59 CET_
+_DEADLINE FRIDAY 23.59 CET_

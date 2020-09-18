@@ -1,137 +1,113 @@
-// let arr= [];
+const generateTileArr = () => {
+	let newArr = [];
+	for (let i = 0; i < 7; i++) {
+		let firstNum = i;
+		for (let i = firstNum; i < 7; i++) {
+			newArr.push(`${firstNum},${i}`);
+		}
+	}
+	return newArr; 
+};
 
-// for (var i=0 ; i < 7; i++) {
-
-//     for ( var j = 0; j < 7; j++) {
-//             arr.push(`<${i}:${j}>`)
-
-//    }
-// }
-// //1/3
-// console.log("arr", arr, arr.length)
-const tiles = [
-	'0:0',
-	'0:1',
-	'0:2',
-	'0:3',
-	'0:4',
-	'0:5',
-	'0:6',
-	'1:1',
-	'1:2',
-	'1:3',
-	'1:4',
-	'1:5',
-	'1:6',
-	'2:2',
-	'2:3',
-	'2:4',
-	'2:5',
-	'2:6',
-	'3:3',
-	'3:4',
-	'3:5',
-	'3:6',
-	'4:4',
-	'4:5',
-	'4:6',
-	'5:5',
-	'5:6',
-	'6:6'
-];
-
-const assignPlayersTiles = (tilesArr, numOfTiles) => {
-	let playerArr = [];
+const assignTiles = (tilesArr, numOfTiles) => {
+	let arr = [];
 	for (let i = 0; i < numOfTiles; i++) {
 		const random = Math.floor(Math.random() * tilesArr.length);
-		if (playerArr.indexOf(tilesArr[random]) === -1) {
-			playerArr.push(tilesArr[random]);
+		if (arr.indexOf(tilesArr[random]) === -1) {
+			arr.push(tilesArr[random]);
 			tilesArr.splice(random, 1);
 		} else {
 			i--;
 		}
 	}
-	return playerArr;
+	return arr;
 };
-const p1 = assignPlayersTiles(tiles, 7);
-const p2 = assignPlayersTiles(tiles, 7);
-let board = [];
-const firstTile = tiles[Math.floor(Math.random() * tiles.length)];
 
-tiles.splice(Math.floor(Math.random() * tiles.length), 1);
-board.push(firstTile);
-
-console.log(`The game starts with <${firstTile}>`);
-
-const checkTile = (playerArr, boardTile) => {
-	return playerArr.find((el) => {
-		if (el[0] === boardTile[0] || el[2] === boardTile[2] || el[0] === boardTile[2] || el[2] === boardTile[0]) {
-			return el;
-		}
-	});
+const logToConsole = (playerName, tilePlayed, boardTile) => {
+	console.log(`${playerName} plays <${tilePlayed}> to connect to <${boardTile}> on the board `);
 };
-//check if p1 has the tile
-//doesn't have it.. then check in the tiles array
 
-const addTileToBoard = (lastTile, tilePlayed) => {
-	const turnedTile = tilePlayed.split('').reverse().join('');
-	if (lastTile[2] === tilePlayed[0]) {
-		board.push(tilePlayed);
-	} else if (lastTile[0] === tilePlayed[2]) {
-		board.unshift(tilePlayed);
-	} else if (lastTile[2] === tilePlayed[2]) {
-		board.push(turnedTile);
-	} else if (lastTile[0] === tilePlayed[0]) {
+const addFromArrToBoard = (board, playedTile, playerArr, method, turnTile) => {
+	const turnedTile = playedTile.split('').reverse().join('');
+	if (method === 'unshift' && turnTile) {
 		board.unshift(turnedTile);
+		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
+		const tileIndex = playerArr.indexOf(playedTile);
+		playerArr.splice(tileIndex, 1);
+	} else if (method === 'unshift' && !turnTile) {
+		board.unshift(playedTile);
+		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
+		const tileIndex = playerArr.indexOf(playedTile);
+		playerArr.splice(tileIndex, 1);
+	} else if (method === 'push' && turnTile) {
+		board.push(turnedTile);
+		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
+		const tileIndex = playerArr.indexOf(playedTile);
+		playerArr.splice(tileIndex, 1);
+	} else {
+		board.push(playedTile);
+		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
+		const tileIndex = playerArr.indexOf(playedTile);
+		playerArr.splice(tileIndex, 1);
+	}
+};
+const checkTileFromArrToArr = (arr, board) => {
+	if (board.length === 1) {
+		const firstTileMatchLastNum = arr.find((el) => el[0] === board[0][2]);
+		const firstTilesMatchFirstNum = arr.find((el) => el[0] === board[0][0]);
+		const lastTilesMatchFirstNum = arr.find((el) => el[2] === board[0][0]);
+		const firstTilesMatchLastNum = arr.find((el) => el[2] === board[0][2]);
+		if (firstTileMatchLastNum) return { tile: firstTileMatchLastNum, method: 'push', turn: false };
+		if (firstTilesMatchFirstNum) return { tile: firstTilesMatchFirstNum, method: 'unshift', turn: true };
+		if (lastTilesMatchFirstNum) return { tile: lastTilesMatchFirstNum, method: 'unshift', turn: false };
+		if (firstTilesMatchLastNum) return { tile: firstTilesMatchLastNum, method: 'push', turn: true };
+	} else {
+		const firstNumMatchLastBoard = arr.find((el) => el[0] === board[board.length - 1][2]);
+		const firstNumMatchFirstBoard = arr.find((el) => el[0] === board[0][0]);
+		const lastNumMatchLastBoard = arr.find((el) => el[2] === board[board.length - 1][2]);
+		const lastNumMatchFirstBoard = arr.find((el) => el[2] === board[0][0]);
+		if (firstNumMatchLastBoard) return { tile: firstNumMatchLastBoard, method: 'push', turn: false };
+		if (firstNumMatchFirstBoard) return { tile: firstNumMatchFirstBoard, method: 'unshift', turn: true };
+		if (lastNumMatchLastBoard) return { tile: lastNumMatchLastBoard, method: 'push', turn: true };
+		if (lastNumMatchFirstBoard) return { tile: lastNumMatchFirstBoard, method: 'unshift', turn: false };
 	}
 };
 
-const play = (playerArr, playerName) => {
-	const matchToFirstTile = checkTile(playerArr, board[0]);
-	const matchToLastTile = checkTile(playerArr, board[board.length - 1]);
-	if (matchToFirstTile) {
-		addTileToBoard(board[0], matchToFirstTile);
-		const tileIndex = playerArr.indexOf(matchToFirstTile);
-		console.log(`${playerName} plays <${board[0]}> to connect to <${board[1]}> on the board (first)`);
-		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
-		playerArr.splice(tileIndex, 1);
-	} else if (matchToLastTile) {
-		addTileToBoard(board[board.length - 1], matchToLastTile);
-		const tileIndex = playerArr.indexOf(matchToLastTile);
-		console.log(`${playerName} plays <${board[0]}> to connect to <${board[1]}> on the board (last)`);
-		console.log(`Board is ${board.map((el) => `<${el}>`)}`);
-		playerArr.splice(tileIndex, 1);
+const main = (playerArr, board, playerName, tiles) => {
+	const playerHasTile = checkTileFromArrToArr(playerArr, board);
+	if (playerHasTile) {
+		logToConsole(playerName, playerHasTile.tile, board[0]);
+		addFromArrToBoard(board, playerHasTile.tile, playerArr, playerHasTile.method, playerHasTile.turn);
 	} else {
-		const tileFromStock = checkTile(tiles, board[0]);
-		if (tileFromStock) {
-			addTileToBoard(board[0], tileFromStock);
-			console.log(`${playerName} can't play; draws <${tileFromStock}>`);
-			console.log(`Board is ${board.map((el) => `<${el}>`)}`);
-			const toCut = tiles.indexOf(tileFromStock);
-			tiles.splice(toCut, 1);
+		const drawFromTiles = checkTileFromArrToArr(tiles, board);
+		if (drawFromTiles) {
+			console.log(`${playerName} can't play; draws <${drawFromTiles.tile}>`);
+			addFromArrToBoard(board, drawFromTiles.tile, tiles, drawFromTiles.method, drawFromTiles.turn);
 		} else {
-			console.log(`${playerName} couldn't pull a tile`, `Game is draw`);
-			gamePlaying=false; 
-		}}}
+			console.log('Game is a draw');
+			gamePlaying = false;
+		}
+	}
+};
 
 let gamePlaying = true;
+const tiles= generateTileArr()
+const p1 = assignTiles(tiles, 7);
+const p2 = assignTiles(tiles, 7);
+const p1Name = 'Joe';
+const p2Name = 'Jack';
 
-if (p1.length === 0) {
-	gamePlaying = false;
-	console.log('1 wins');
-} else if (p2.length === 0) {
-	gamePlaying = false;
-	console.log('2 wins');
-}
+let board = assignTiles(tiles, 1);
+console.log(`The game starts with <${board[0]}>`);
 
 while (gamePlaying) {
-	play(p1, 'Ammar');
-	play(p2, 'Jack');
+	main(p1, board, p1Name, tiles);
+	main(p2, board, p2Name, tiles);
 	if (p1.length === 0) {
 		gamePlaying = false;
-		console.log('1 wins');
+		console.log(`${p1Name} wins!`);
 	} else if (p2.length === 0) {
 		gamePlaying = false;
-		console.log('2 wins');
+		console.log(`${p2Name} wins!`);
 	}
 }

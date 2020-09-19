@@ -33,7 +33,7 @@ const findValidTile = (deck, playerTiles, boardTiles) => {
   let validTileFound = false
   let validTile = []
 
-  while (!validTileFound) {
+  while (!validTileFound && deck.length > 0) {
     validTile = playerTiles.find((tile) => {
       return (
         tile[0] === boardTiles[0][0] ||
@@ -42,7 +42,6 @@ const findValidTile = (deck, playerTiles, boardTiles) => {
         tile[1] === boardTiles[boardTiles.length - 1][1]
       )
     })
-    console.log(`deck has ${deck.length} tiles`)
 
     validTile === undefined
       ? deck.length > 0
@@ -54,8 +53,15 @@ const findValidTile = (deck, playerTiles, boardTiles) => {
 }
 
 const handDisplay = (array) => {
-  let display = ''
-  array.map((element) => (display += `<${element[0]}:${element[1]}> `))
+  let display
+  if (array.length > 0) {
+    display = array.reduce(
+      (display, element) =>
+        (display +=
+          element !== undefined ? `<${element[0]}:${element[1]}> ` : ''),
+      ''
+    )
+  }
   return display
 }
 
@@ -84,7 +90,6 @@ const gameLogic = (board, playerTiles, validTile, pass) => {
 const gamePlay = (deck, board, playerOne, playerTwo) => {
   let numPass = []
   while (playerOne.length > 0 && playerTwo.length > 0 && numPass.length !== 2) {
-    numPass = []
     console.log(`player two has ${playerTwo.length} tiles`)
 
     console.log('1', numPass)
@@ -93,7 +98,8 @@ const gamePlay = (deck, board, playerOne, playerTwo) => {
 
     console.log('Bob played: ', handDisplay([validTilePlayerOne]))
     console.log(`Board is now : ${handDisplay(board)}`)
-    console.log('2', numPass)
+    console.log('___________________________________________________________\n')
+    numPass = []
 
     if (playerOne.length > 0) {
       console.log(`player one has ${playerOne.length} tiles`)
@@ -144,6 +150,7 @@ const gamePlay = (deck, board, playerOne, playerTwo) => {
         )
       }
     }
+    console.log('___________________________________________________________\n')
   }
 }
 
@@ -160,9 +167,7 @@ const gameBoard = () => {
   console.log('___________________________________________________________\n')
 
   shuffleSelect(deck, board, 1)
-  console.log(
-    `Game is starting with the tile <${board[0][0]}:${board[0][1]}>\n`
-  )
+  console.log(`Game is starting with the tile ${handDisplay(deck)}\n`)
   console.log(`GamePlay Tiles in deck are ${handDisplay(deck)}`)
 
   gamePlay(deck, board, playerOne, playerTwo)

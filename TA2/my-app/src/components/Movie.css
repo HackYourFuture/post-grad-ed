@@ -1,0 +1,28 @@
+.movie{
+    padding: 2vw 5vw 2vw 5vw;
+    width: 30vw;
+    height: 70%;
+    border-radius: 1vw;
+    margin: auto; 
+    margin-bottom: 1vw;
+    color: white; 
+}
+
+.movie:hover{
+    box-shadow: 1px 0px 43px 0px rgba(59,102,152,1);
+}
+.opening_curl{
+    color: #FFE81F; 
+    font-size: 1.5em; 
+    font-weight: bolder;
+}
+.opening_curl>p{
+    word-spacing: 1em;
+
+}
+.title{
+    color: black; 
+    font-size: 3em; 
+    font-family: 'Russo One', sans-serif;
+    text-shadow: 2px 0px 9px rgb(255, 70, 70);
+}

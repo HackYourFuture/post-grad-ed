@@ -1,0 +1,38 @@
+/* .movieList {
+    display: flex; 
+    flex-wrap: wrap;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 2vw;
+    padding-bottom: 2vw;
+   
+} */
+.spinner{
+    margin: 0px; 
+    top: 30%; 
+    left: calc(50% - 250px); 
+    position: absolute ;
+    border-radius: 5px;
+}
+.container{
+    width: 100%; 
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    padding: 1vw; 
+    height: 5vh;
+    width: 5vh;
+    font-size: 8.5vh;
+    margin: 3vw; 
+   color: rgba(255, 255, 255, 0.219); 
+    cursor: pointer;
+   
+}
+.button:hover{
+    font-size: 9vh;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+

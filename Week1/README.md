@@ -58,7 +58,7 @@ Follow the instructions:
 - Complete the assignment before **this FRIDAY 23.59 CET**. In the meanwhile you can already start thinking about features you'd like to add
 - Discuss with your classmate whenever you're stuck
 
-One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...)
+One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...). We strongly advice you to check the 'Technical Assignment Tips' document created by one of the PGP mentors: (https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips). 
 
 ### 5. Questionnaire I
 

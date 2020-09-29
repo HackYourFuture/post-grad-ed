@@ -1,0 +1,16 @@
+.movie_details {
+    box-shadow: 1px 0px 43px 0px rgba(59,102,152,1);
+    color: white; 
+    
+}
+
+.selectEl{
+    background-color: black; 
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+    width: 50%; 
+    text-align-last:center;
+    border-radius: 2px;
+    width: 50%; 
+}

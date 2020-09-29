@@ -10,7 +10,6 @@ export const useHttpRequest = url => {
       try {
         const response = await fetch(url)
         const jsonData = await response.json()
-        console.log("jsonData", jsonData)
         setData(jsonData)
         setLoading(false)
         setErr(false)

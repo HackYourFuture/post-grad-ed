@@ -18,7 +18,7 @@ export default function MoviesList () {
   }, 3000);
 
   const clickRight = () => {
-    // if (movieNum < 5){setMovieNum(movieNum + 1)} else {setMovieNum(0)}
+
     movieNum < 5? setMovieNum(movieNum + 1 ): setMovieNum(0); 
   }
   const clickLeft = () => {

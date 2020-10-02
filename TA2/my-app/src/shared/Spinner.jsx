@@ -7,7 +7,7 @@ export default function Spinner () {
     <div className='spinner_background'>
       <div className='target'>
         <div>
-          <img className='spinner_img' src='https://vignette.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755' />
+          <img className='spinner_img' src='https://vignette.wikia.nocookie.net/starwars/images/c/cc/Star-wars-logo-new-tall.jpg/revision/latest?cb=20190313021755' alt='Star wars log' />
         </div>
       </div>
     </div>

@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Russo+One&display=swap');
 .App {
-  text-align: center;
-  color: white; 
-  font-family: 'PT Sans', sans-serif;
-  background-image: url('./pics/stars.gif');
-  height: 100vh;
- padding: 10vh; 
- box-shadow: inset 6px 189px 53px 11px rgba(0,0,0,0.75);
-} 
+	text-align: center;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	background-image: url('./pics/stars.gif');
+	height: 100vh;
+  padding: 10vh;
+  background-color: black;
+	box-shadow: inset 6px 189px 53px 11px rgba(0, 0, 0, 0.75);
+}

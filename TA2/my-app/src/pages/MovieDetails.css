@@ -1,16 +1,42 @@
 .movie_details {
-    box-shadow: 1px 0px 43px 0px rgba(59,102,152,1);
-    color: white; 
-    
+	box-shadow: 1px 0px 43px 0px rgba(59, 102, 152, 1);
+	color: white;
+	text-align: center;
 }
-
-.selectEl{
-    background-color: black; 
-    font-size: large;
-    font-weight: bolder;
-    color: white;
-    width: 50%; 
-    text-align-last:center;
-    border-radius: 2px;
-    width: 50%; 
+.close {
+	position: relative;
+	float: left;
+	top: -2vh;
+	right: 3vw;
+	font-size: 1.5em;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 0.212); 
+    cursor: pointer;
+}
+.close:hover{
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    font-weight: 2em;
+}
+.selectEl {
+	background-color: black;
+	font-size: large;
+	font-weight: bolder;
+	color: white;
+	width: 50%;
+	text-align-last: center;
+	border-radius: 2px;
+	width: 50%;
+}
+.list {
+	text-align: left;
+	width: 70%;
+	margin: auto;
+	height: 50%;
+}
+.list_long {
+	text-align: left;
+	width: 100%;
+	margin: auto;
+	height: 50%;
+	column-count: 2;
 }

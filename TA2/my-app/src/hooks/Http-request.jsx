@@ -18,7 +18,7 @@ export const useHttpRequest = url => {
         console.log(err)
       }
     }
-    fetchData(url); 
+    fetchData(url)
   }, [url])
-  return [loading, err, data ]
+  return [loading, err, data]
 }

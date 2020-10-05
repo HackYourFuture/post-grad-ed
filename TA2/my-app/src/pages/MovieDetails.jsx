@@ -30,11 +30,11 @@ export default function MovieDetails () {
   }
   return (
     <div>
-      {err && <h1>Couldn't fetch data</h1>}
       {loading && <Spinner />}
       {movie && (
         <Fade duration={2000}>
           <div className='movie_details movie'>
+            {err && <h1>Couldn't fetch data</h1>}
             <p className='close' onClick={goBack}>
               ✖
             </p>
@@ -62,9 +62,7 @@ export default function MovieDetails () {
               >
                 <ul>
                   {details
-                    ? details.map((item, i) => (
-                        <ListItem key={i} link={item} />
-                      ))
+                    ? details.map((item, i) => <ListItem key={i} link={item} />)
                     : null}
                 </ul>
               </div>

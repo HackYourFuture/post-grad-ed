@@ -40,9 +40,7 @@ Take a look at the following resources to learn more about this topic. After you
 
 This is the final week you'll work on your technical assignment. Did you learn a lot?
 
-Like previous weeks, have your classmate help correct your incorrect code by reviewing your code. The same thing you'll do with their code.
-
-Good luck!
+This week you have to code the new features and share the code and deployed app in the slack channel. Don't forget to cover all aspects mentioned [here](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips)
 
 ### 5. Questionnaire IV
 
@@ -88,7 +86,7 @@ You might wonder how to best approach this, so here are some tips:
 
 ### Finished?
 
-At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
+At the end of this week you need to deliver upon the following in the Slack channel:
 
 1. Write out in 100 words or less your number #1 key lesson you learned this week
 
@@ -96,16 +94,14 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-3. Finalize your pull request by pushing your final code for the technical assignment
+3. Finalize your pull request by pushing your final code for the technical assignment and share the deployed version
 
-4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
+4. Perform a code review on your own pull request. For instructions on how to do this, look [here](./../how-to-code-review.md). Maybe after you review your code with your mentor you will be able to review everything than can be improved.
 
 5. The "video job application". It should contain the answers to the questions mentioned above, and presented in a clear and professional way
 
-After you are done with all your submissions, you should start the performance review. You can find it here:
+After you are done with all your submissions, your mentor and someone from the HYF team will share with you important information on how you performed during this module and what can you do to improve moving forward.
 
-- [Performance Review](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy)
-
- This will have valuable information on how you performed during this module and what can you do to improve moving forward.
+All the best!
 
 _DEADLINE FRIDAY 23.59 CET_

@@ -2,7 +2,7 @@
 
 Technical assignments are an essential part of the job application process. At first it might seem like a daunting challenge, but understanding the mechanics and learning the right approach will help you feel more relaxed about it. This in turn will help you increase your chance of getting the job!
 
-**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact your mentor or Education Director. They will help you out, make a plan and ensure that you do as well as possible on the assignment.
+**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact your mentor or Education Director. While they cannot do any of the code for you, they will help you make a plan, discuss the requirements and ensure that you do as well as possible on the assignment. 
 
 ## The why of TAs
 
@@ -45,7 +45,7 @@ First, take a breath. You **always** function better when you're calm. After hav
 
 If you do fail, that's ok. You are here to learn and these assignments just serve to show you what your current skill level is. Take the lesson and try again!
 
-Also, if you receive a technical assignment for a job application, **always ask for help!** We have experienced that many students feel they have to do the technical assignment by themselves and are afraid to ask for help. Please do ask for our support. If you get stuck during the assignment you might miss out on a job!
+Also, if you receive a technical assignment for a job application, **always ask for help!** We have experienced that many students feel they have to do the technical assignment all by themselves and are afraid to ask for help. Do ask for our support - the HYF community is also available to help you during your job, so not much difference there :) Needless to say, we will never code the application for you, but discuss the requirements instead to be sure you are approaching it the right way. If you get stuck during the assignment you might miss out on a job!
 
 ## List of technical assignments
 

@@ -33,9 +33,11 @@ Another important developer skill is to ability to **write** documentation. In p
 - [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
 - [How To Use Developer Documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0)
 
+Practice this new skill on your new TA and add it to the apps GitHub Repo!
+
 ### 4. Technical Assignment II
 
-It's time for another technical assignment! If you've been doing the other one, you might've noticed how similar it is to the homeworks you've been doing within the HackYourFuture program. It's only bigger than you're used to.
+It's time for another technical assignment! 
 
 Go to the second [list](./../technical-assignments/w3-w4) and choose a new technical assignment. Be sure you and your team member agree on the same one.
 
@@ -44,9 +46,8 @@ You're now 50% in! You're doing great! Let's continue this week with the third p
 Follow the instructions:
 
 - Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
-- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources)
-- Work on this assignment for two weeks. **Deadline is next week FRIDAY 23.59 CET.**
-- Discuss with your classmate whenever you're stuck
+- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources and share your final planning including the new features you will add to the app in the PGP channel)
+- Work on this assignment for one week **Deadline is next week FRIDAY 23.59 CET.** and in the final week add the new features and deploy it.
 
 While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
 
@@ -79,7 +80,7 @@ The theme of this week is: "What type of developer do I want to be?"
 
 ### Finished?
 
-At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
+At the end of this week you need to deliver upon the following in the PGP Slack channel:
 
 1. Write out in 100 words or less your number #1 key lesson you learned this week
 
@@ -87,8 +88,8 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-3. Already make a pull request with including the current state of your technical assigment code.
+3. Already make a pull request with including the current state of your technical assigment code and share your 2 TA planning including the new features you will code next week.
 
-4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
+4. Perform a code review on your pull request. For instructions on how to do this, look [here](./../how-to-code-review.md). What can you do better? Also connect with your mentor to get their feedback!
 
 _DEADLINE FRIDAY 23.59 CET_

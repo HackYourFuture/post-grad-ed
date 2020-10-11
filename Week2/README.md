@@ -24,24 +24,17 @@ Do research, try to think step-by-step. And always remember that **there are mul
 
 ### 3. Developer skills: Code reviews
 
-An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague!
+An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague! Review the documentation below and review your own code! What can you do better?
 
 - [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 
 ### 4. Technical Assignment I
 
-Continue with the technical assignment. Have you gained any new insights so far? Write them down! You want to keep track of these, as it will help you retain what you're learning.
+Continue with the technical assignment. This week you will have to add the 3 features that are not part of the original requirements but that you added on your planning on week 1. 
 
-To help you during the process, here are a list of questions you can keep in mind to accelerate learning:
+For the last part of the TA you will have to test it, deploy it and follow all recommendations included [here](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips). Once all is working and before the deadline, share your code page and deployed app on the PGP channel.
 
-- Why is this (not) working?
-- How does this concept relate to that concept?
-- Am I able to articulate what's happening?
-- How is this application different/similar to my previous project?
-
-Make sure you keep your remote repository up to date. Commit regularly!
-
-And like previous weeks, make a video explaining one concept you've learned most about during the development of this project. Post the video in the Slack channel!
+And like previous weeks, make a video explaining one concept you've learned most about during the development of this project and post the video in the Slack channel!
 
 ### 5. Questionnaire II
 
@@ -61,8 +54,6 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-3. Finalize your pull request by pushing your final code for the technical assignment
-
-4. Perform a code review on the pull request of one of your classmates. For instructions on how to do this, look [here](./../how-to-code-review.md)
+3. A link to your GitHub repo for the technical assignment and a link with the deployed TA working.
 
 _DEADLINE FRIDAY 23.59 CET_

@@ -82,7 +82,7 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-3. Already make a pull request including the current state of your technical assigment code.
+3. Already make a pull request including the current state of your technical assigment code and share the full planning in the group.
 
 4. Ask your mentor to review your code and to give you feedback on your video! Remember that when you are working on a company YOU are responsible for your performance. Having said that, be on top of your planning and take an active role in asking for mentoring so you end up with a better project and increase your learnings. Remember that your mentor volunteers to do this because he/she wants to do so, so DON'T BE SHY!
 

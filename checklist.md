@@ -137,4 +137,4 @@ Have you checked off all the above? Great job! Now it's time to apply for jobs. 
 
 [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7)
 
-Let's go get that big developer money!!!
+You got this!

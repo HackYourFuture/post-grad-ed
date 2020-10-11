@@ -11,7 +11,7 @@
 
 Dear alumnus, congratulations on finishing the HackYourFuture 7 month program!
 
-In this repository you'll find a curriculum that helps you prepare yourself for a job.
+In this repository you'll find a curriculum that helps you prepare to apply for internships and to master the contents of our program.
 
 These are the skills you're going to work on:
 
@@ -35,27 +35,24 @@ Each week you'll do exercises in order to strengthen all these skills:
 
 - **JavaScript cardio**: In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along
 - **Algorithms**: In these exercises you'll practice your ability to think in steps, by doing programming challenges
-- **Technical assignments**: This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies.
+- **Technical assignments**: This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies. During the first week you will have to make an assignment that complies with all the requirements. The second week you will take the application/s to the next level by designing and implementing new features and functionality.
 - **Questionnaire**: every week you'll (have to complete a) questionnaire containing questions that will challenge you to think about what you want out of your career. This will help you become more fluent and confident in presenting yourself in a job interview.
 
 In the final week you are asked to record a "video job application". This will be the your test to see to what degree you are able to present yourself professionally and confidently.
 
 ## Mentorship & accountability
 
-During this module we expect you to behave like a **professional developer**. This means that:
+During this module we expect you to behave like a **professional developer**. This means that you have meet deadlines and communicate accordingly.
 
-- You have meet deadlines
-- If for any reason you are late with you submissions, you need to communicate with your mentors and colleagues.
-
-Failing to do this more than once will automatically drop you from this program and you will have to wait until a new edition starts. We as HackYourFuture as well as your mentors are available to help you go through this process but it is your responsibility to make it a success. Think of this module as a real job. If you fail to deliver in time and to communicate you will get yourself and your team in trouble.
+Failing to stick to deadlines and/or communicating properly about your progress will automatically drop you from this program and you will have to wait until a new edition starts. We as HackYourFuture as well as your mentors are available to help you go through this process but it is your responsibility to make it a success. Think of this module as a real job. 
 
 At the start of this module you'll be paired up with a mentor, an established senior developer that will guide you along in the process of preparing for a job.
 
 It's important that you make good use of this mentor: they can help you face dilemmas on how to approach the projects, will give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module.
 
-Having said that, please keep in mind that the mentor won’t be an active participant of this practice but will respond to your requests. It is **YOUR** responsibility to ask for help and to make the best out of this opportunity.
+Having said that, please keep in mind that the mentor won’t be an active participant of this practice but will respond to your requests. It is **YOUR** responsibility to ask for help and to make the best out of this opportunity. Do not wait for the mentor to take intitiative him/herself but rather show proactivity by planning meetings, asking for support and code reviews, asking for their opinion on your planning and new features, etc.
 
-In addition, you should also keep yourself accountable by communicating with other classmates. That's not always that easy. Therefore, HackYourFuture has created a special channel on Slack that you can use in order to discuss, ask for help and keep your motivation. It's called [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7).
+Needless to say, do your upmost best on the Technical Assignments. When delivering great work, these can also become part of your CV to show possible employers the quality of your work.
 
 ### Performance review
 
@@ -63,7 +60,9 @@ At the end of the Post Graduation Module, your mentor will conduct a **performan
 
 1. **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
 2. **Communication**: Do you communicates clearly with both colleagues and mentors? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
-3. **Responsibility**: Are you on time for meetings? And do you submit the homework before the deadline? Are your peer-reviews done on time? Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
+3. **Responsibility and proactivity**: Are you on time for meetings? And do you submit the homework before the deadline? Are you actively looking for support and ways to improve yourself?
+
+Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
 
 Here you can already find a link to the survey:
 
@@ -80,7 +79,7 @@ Here you can already find a link to the survey:
 
 ## Finished?
 
-Have you been through all the 4 weeks? You're amazing!
+Have you been through all the 4 weeks? Awesome!
 
 It's important to know that the goal of this module is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
 

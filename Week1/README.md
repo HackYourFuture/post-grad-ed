@@ -84,4 +84,6 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 3. Already make a pull request including the current state of your technical assigment code.
 
+4. Ask your mentor to review your code and to give you feedback on your video! Remember that when you are working on a company YOU are responsible for your performance. Having said that, be on top of your planning and take an active role in asking for mentoring so you end up with a better project and increase your learnings. Remember that your mentor volunteers to do this because he/she wants to do so, so DON'T BE SHY!
+
 _DEADLINE FRIDAY 23.59 CET_

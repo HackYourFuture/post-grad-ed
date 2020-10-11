@@ -60,7 +60,7 @@ At the end of the Post Graduation Module, your mentor will conduct a **performan
 
 1. **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
 2. **Communication**: Do you communicates clearly with both colleagues and mentors? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
-3. **Responsibility and proactivity**: Are you on time for meetings? And do you submit the homework before the deadline? Are your peer-reviews done on time? Are you actively looking for support and ways to improve yourself?
+3. **Responsibility and proactivity**: Are you on time for meetings? And do you submit the homework before the deadline? Are you actively looking for support and ways to improve yourself?
 
 Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
 

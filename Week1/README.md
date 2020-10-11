@@ -58,7 +58,7 @@ Follow the instructions:
 - Make a plan of action of how you're going to approach this assignment (use the aforementioned resources and do your own research) - Share this plan on the PGP general channel. Include in the planning which additional features you will develop on the second week.
 - Complete the assignment before **this FRIDAY 23.59 CET**. 
 
-One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...). Also don't forget to check the Technical Assignment Tips for HackYourFuture Graduates document mentioned above as it explains what you need to take into account when planning and finishing your technical assignment.
+One tip before you start: imagine doing this for a real company. Because that's the only way you'll train yourself to take it seriously. (And maybe it will even lead to opportunities...). We strongly advice you to check the 'Technical Assignment Tips' document created by one of the PGP mentors: (https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips). 
 
 ### 5. Questionnaire I
 

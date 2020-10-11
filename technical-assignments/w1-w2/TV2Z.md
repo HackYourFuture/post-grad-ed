@@ -1,6 +1,6 @@
 # TV2Z Technical Assignment
 
-Please create a TODO List with the below features using Javascript: 
+Please create a TODO List with the below features using Javascript/React: 
 
 - Ability to allow a user to login and store his todo items. 
 - Ability to tag the todo items 

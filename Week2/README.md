@@ -54,6 +54,6 @@ At the end of this week you need to deliver upon the following in the Slack chan
 
 2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
 
-3. A link to your GitHub repo for the technical assignment and a link with the deployed TA working.
+3. A link to your GitHub repo for the technical assignment and a link with the deployed TA so we can all test and use it.
 
 _DEADLINE FRIDAY 23.59 CET_

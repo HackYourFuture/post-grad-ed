@@ -2,7 +2,7 @@
 
 The purpose of the module is to prepare students for a job interview both in terms of soft and technical skills. They will repeat the fundamentals learned on our course (web application development, algorithmic thinking and technical communication) by doing different coding challenges and by working on real technical assignments received from companies.
 
-## Your role
+## Your role:
 As a mentor you will work closely with your two students. Some of the activities of a PGP mentor are:
 
 - Review student's explanations of technical concepts done through videos - 1 per week. 
@@ -21,22 +21,22 @@ As a mentor you will work closely with your two students. Some of the activities
 
 Students should post the links to these in the #postgraduation channel so other students can also see and comment on the work.
 
-## Topics suggestions to be covered in your meetings with the students
+## Topics suggestions to be covered in your meetings with the students:
 	
-### GENERAL
-What have you learned this week?
-What did you find difficult?
-How many hours have you coded this week?
+### General
+- What have you learned this week?
+- What did you find difficult?
+- How many hours have you coded this week?
 
-### VIDEO
-How was the video making process this week?
-Can you re-explain the concept to me?
+### Video
+- How was the video making process this week?
+- Can you re-explain the concept to me?
 
-### TECHNICAL ASSIGNMENT
-Do you know how to approach this assignment? Please explain me
-How’s the progress going?
-Are you experiencing any obstacles?
-How can you improve this assignment to impress the employer?
+### Technical Assignment
+- Do you know how to approach this assignment? Please explain me
+- How’s the progress going?
+- Are you experiencing any obstacles?
+- How can you improve this assignment to impress the employer?
 
 ## GIVING FEEDBACK
 As there are different types of assignments, each deserves a slightly different type of feedback:

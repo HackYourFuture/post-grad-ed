@@ -1,12 +1,10 @@
 # Mentoring PostGrad Students
 
-In this document you’ll find guidelines on how to mentor a student during the 4-week PostGrad module.
-
-## Purpose
 The purpose of the module is to prepare students for a job interview both in terms of soft and technical skills. They will repeat the fundamentals learned on our course (web application development, algorithmic thinking and technical communication) by doing different coding challenges and by working on real technical assignments received from companies.
 
 ## Your role
 As a mentor you will work closely with your two students. Some of the activities of a PGP mentor are:
+
 - Review student's explanations of technical concepts done through videos - 1 per week. 
 - Help students understand how to approach technical assignments. Check [this document](https://github.com/riccardobevilacqua/technical-assignment-tips) with tips and tricks we think are important.
 - Review the code they write. This can be done through a call with your 2 mentees at a time to save time, do it directly on the code, or however you think is best. The important thing here is that the student can improve the quality of their code and learn from their mistakes.

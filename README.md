@@ -1,5 +1,7 @@
 > If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
+> If you are a PGP mentor, take a look at our guide on how to [mentor PostGradStudents](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md).
+
 > This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a web developer job/internship.
 
 > Please help us improve and share your feedback! If you find better tutorials

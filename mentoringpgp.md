@@ -36,7 +36,7 @@ Students will post the links to their assignments and videos in the #postgraduat
 - How’s the progress going? Are you experiencing any obstacles?
 - How can you improve this assignment in week 2 or 4 (and how can you impress an employer)?
 
-## GIVING FEEDBACK
+## Giving Feedback
 Please be critcial but constructive. The idea here is that the students improve.
 
 ### Video

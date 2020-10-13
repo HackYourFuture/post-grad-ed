@@ -35,10 +35,14 @@ Failing to stick to deadlines and/or communicating about your progress or setbac
 At the start of this module you'll be paired up with a mentor. It's important that you 'make good use' of your mentor: they can help you plan how to approach the projects, can give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module. 
 
 Having said that,  keep in mind that the mentor will respond to your requests and not be there to ask you what you need. It is **YOUR** responsibility to ask for help, to plan meetings and to make the best out of this opportunity. Do not wait for the mentor to take intitiative him/herself but rather show proactivity yourself by planning meetings, asking for support and code reviews, asking for their opinion on your planning, etc.
- 
+
 Needless to say, do your upmost best on the TA's. When delivering great work, **these can become part of your CV to show employers the quality of your work.**
 
 **Important note for students:** Remember that your mentor volunteers for this practice because he/she wants to do so. Having said that, DON'T BE SHY AND ASK FOR HELP AND GUIDANCE! If the mentor is too busy at any given time, they will let you know. Also don't try to do all by yourself and learn from your mentor instead. They have many years of experience and working with them is a unique opportunity to learn!
+
+## About deadlines
+
+Deadlines are supposed to be every Friday at 23:59 hs. If (together with your mentor) you decide to move the deadlines to another day (maybe sunday, or monday in the following week) because that works bette that's fine as long as the new deadline is communicated in the group followed every week.
 
 ### Performance review
 

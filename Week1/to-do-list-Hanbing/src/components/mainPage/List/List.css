@@ -1,0 +1,7 @@
+.itemList{
+    width:100%;
+    margin:3rem;
+    padding: 1rem;
+    list-style: none;
+    border: 1px red dotted;
+}

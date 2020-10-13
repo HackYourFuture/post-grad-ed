@@ -1,0 +1,21 @@
+.searchButton{
+    width: 5 rem;
+    height: 4 rem;
+    cursor: pointer;
+    padding: 1rem;
+    border: 1px solid red;
+    background-color: transparent;
+    z-index: 0;
+}
+
+.searchButton__icon{
+    width: rgba(255,255,255, 0.8);
+    color: white;
+    z-index: 5;
+}
+
+.searchButton__icon:hover{
+    color: rgba(255,255,255, 1);
+    transition: all .2s ease-in-out;
+    transform: scale(1.5);
+}

@@ -1,0 +1,54 @@
+.listItem{
+    margin: 0.5rem;
+}
+
+
+.listItem__content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.listItem__checkbox{
+    width: 10%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.not-completed{
+    size: 5 rem;
+    cursor: pointer;
+    color: #0276B5;
+    background-color: white;
+}
+
+.not-completed:hover{
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+.completed{
+    color: #0276B5;
+    size: 5 rem;
+    cursor: pointer;
+}
+.completed:hover{
+  
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.listItem__title{
+    padding:0.1rem;
+    width:30%;
+}
+.listItem__date{
+    width:30%;
+}
+.listItem__editButton{
+    width:10%;
+}
+.listItem__deleteButton{
+    width:10%;
+}

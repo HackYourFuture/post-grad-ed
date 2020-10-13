@@ -30,7 +30,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 ## 2. TA1 Code
 
-At the end of the week, share the code and deployed app with your mentor and group on Slack. Be sure to get feedback (or a code review) on the work you've done. That's the best way to improve your skills.
+At the end of the week, share the code and deployed app with your mentor and group on Slack. Be sure to test the app before sharing it! Finally, don't forget to ask for feedback (or a code review) from your mentor. That's the best way to improve your skills.
 
 ## 3. Video 1
 

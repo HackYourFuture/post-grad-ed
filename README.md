@@ -87,9 +87,11 @@ It's important to know that the goal of this module is NOT to go through it and 
 
 Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
 
-However, before we actually go on and apply for jobs we need to do a final check...
+However, before you consider this step fully finished, let's do a final check:
 
-- [Job Preparation Checklist](checklist.md)
+- [Post Graduation Skills Checklist](checklist.md)
+
+You got this!
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

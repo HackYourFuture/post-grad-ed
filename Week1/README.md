@@ -1,6 +1,6 @@
 # PostGraduation Week 1
 
-## Delivearables with deadline FRIDAY 23.59 CET:
+## Delivearables with deadline Friday 23.59 CET (unless defined different with your mentor):
 
 1. TA1 Planning
 2. TA1 Code

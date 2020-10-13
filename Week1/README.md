@@ -36,7 +36,7 @@ At the end of the week, share the code and deployed app with your mentor and gro
 
 Make a video explaining one concept you've learned during the development of the project (or a concept that you want to practice). For instructions on how you can do this, check [here](./../how-to-record-concept.md). Once ready, please share the video with the slack group and ask for feedback from your colleagues! A good developer not only knows how to explain technical concepts, but they also know how to give and receive feedback!
 
-***Be sure the video is in a format that can be played in slack or upload it to YouTube directly!
+***Be sure the video is in a format that can be played in slack or upload it to YouTube directly!***
 
 ## 4. Questionnaire 1
 
@@ -46,7 +46,7 @@ The theme of this week is: "Why do I want to be a software developer"?
 
 - [Week 1 Questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5)
 
- ***Important: Take you time to prepare and elaborate this questions. They will come in handy for the end of this program and for when you apply to jobs!
+***Important: Take you time to prepare and elaborate this questions. They will come in handy for the end of this program and for when you apply to jobs!***
  
 ## 5. Learnings 1
  
@@ -57,7 +57,7 @@ Once you are done, sharing it on Slack. Everyone is keen to see what you've done
 
 # Optionals:
 
-## 6. JavaScript Cardio I
+## 6. JavaScript Cardio 1
 
 In order to become good at using a programming language, it's important to know the syntax. The various versions. And the different ways these can be used to write useful programs.
 
@@ -66,7 +66,7 @@ In this section you'll get several exercises you can do to train your ability to
 - [JavaScript Array Cardio Practice](https://www.youtube.com/watch?v=HB1ZC7czKRs)
 - [.some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2](https://www.youtube.com/watch?v=QNmRfyNg1lw)
 
-## 7. Algorithms I
+## 7. Algorithms 1
 
 Thinking algorithmically is an essential part of a developer's mental toolkit. But what is an algorithm?
 

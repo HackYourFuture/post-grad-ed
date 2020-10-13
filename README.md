@@ -16,15 +16,15 @@ In this repository you'll find a curriculum that helps you further master the co
 
 Each of the following 4 weeks, you'll do exercises and assignments in order to strengthen your skills:
 
-- **1.Technical assignments (TA):** This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies. During the first (and third) week you will have to make an assignment that complies with all the requirements. The second (and fourth) week you will take the applications to the next level by designing and implementing new features and functionality.
-- **2.Videos:** Every week you will have to record a video explaining a concept youve learned. In Week 4 you will also have to prepare a video job application which  will be your 'test' to see to what degree you are able to present yourself professionally and confidently.
-- **3.Plannings and learnings:** On weeks 1 and 3 you will share your planning on which technologies you will use for the upcoming TA and which features you will add in weeks 2 and 4. Additionally, every week you will share a small message with your group mentioning what you have learned by working on the TA.
-- **4.Questionnaire:** Every week you'll have to complete a simple questionnaire containing common interview questions that will challenge you to think about what you want out of your career. Put time to think about the answers as these can be usef in any real interview.
+- **Technical assignments (TA):** This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies. During the first (and third) week you will have to make an assignment that complies with all the requirements. The second (and fourth) week you will take the applications to the next level by designing and implementing new features and functionality.
+- **Videos:** Every week you will have to record a video explaining a concept youve learned. In Week 4 you will also have to prepare a video job application which  will be your 'test' to see to what degree you are able to present yourself professionally and confidently.
+- **Plannings and learnings:** On weeks 1 and 3 you will share your planning on which technologies you will use for the upcoming TA and which features you will add in weeks 2 and 4. Additionally, every week you will share a small message with your group mentioning what you have learned by working on the TA.
+- **Questionnaire:** Every week you'll have to complete a simple questionnaire containing common interview questions that will challenge you to think about what you want out of your career. Put time to think about the answers as these can be usef in any real interview.
 
 Each week also contains aditional material to revise Javascript fundamentals and learn the basics of Algorithmic Thinking. While these sections are optional and your mentors won't give you feedback on them, we strongly recommend you to go through it to polish and improve your skills.
 
-- **5. JavaScript Cardio (Optional):** In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along. 
-- **6. Algorithms (Optional):** In these exercises you'll practice your ability to think in steps, by doing programming challenges. 
+- **JavaScript Cardio (Optional):** In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along. 
+- **Algorithms (Optional):** In these exercises you'll practice your ability to think in steps, by doing programming challenges. 
 
 ## Mentorship & accountability
 
@@ -44,9 +44,9 @@ Needless to say, do your upmost best on the TA's. When delivering great work, **
 
 At the end of the Post Graduation Module, your mentor and the HYF team will conduct a **performance review** to provide you with feedback on how you performed in the past 4 weeks and how you can improve moving forward. The general factors to be evaluated are:
 
-- **1. Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
-- **2. Communication**: Do you communicate clearly and precisely? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
-- **3. Responsibility and proactivity**: Are you on time (and planning) for meetings? Do you submit your assignments on time? Are you actively looking for support and ways to improve yourself?
+- **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
+- **Communication**: Do you communicate clearly and precisely? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
+- **Responsibility and proactivity**: Are you on time (and planning) for meetings? Do you submit your assignments on time? Are you actively looking for support and ways to improve yourself?
 
 
 ## Planning

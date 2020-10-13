@@ -53,7 +53,7 @@ At the end of the Post Graduation Module, your mentor and the HYF team will cond
 
 | Week | Weekly Deliverables                                                                 | Repositories               |
 | ---- | ----------------------------------------------------------------------------------- | -------------------------- |
-| 1.   | TA1 Planning + TA1 Code + Video 1 + Questionnaire 1 + Learnings 3                   | [WEEK 1](/Week1/README.md) |
+| 1.   | TA1 Planning + TA1 Code + Video 1 + Questionnaire 1 + Learnings 1                   | [WEEK 1](/Week1/README.md) |
 | 2.   | TA1 Final + Video 2 + Questionnaire 2 + Learnings 2                                 | [WEEK 2](/Week2/README.md) |
 | 3.   | TA2 Planning + TA2 Code + Video 3 + Questionnaire 3 + Learnings 3                   | [WEEK 3](/Week3/README.md) |
 | 4.   | TA2 Final + Video 4 + Questionnaire 4 + Learnings 4 + Video Job Application         | [WEEK 4](/Week4/README.md) |

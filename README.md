@@ -67,9 +67,11 @@ If you finished the program and you still havent found an internship or job, you
 - Work on the TA's that you didnt worked on before but that are also in this repo
 - Contact the HYF to setup a [Fellowship Team](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
 
-However, before we actually go on and apply for jobs we need to do a final check...
+However, before you consider this step ***fully finished,*** let's do a final check:
 
 - [Job Preparation Checklist](checklist.md)
+
+You got this!
 
 _The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 

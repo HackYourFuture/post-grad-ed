@@ -76,7 +76,7 @@ If you finished the program and you still havent found an internship or job, you
 - Further improve the TA's and add them to your portfolio / CV
 - Work on the TA's that you didnt worked on before but that are also in this repo
 - Start a [Fellowship Team](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
-- However, before you consider this module fully finished, be sure you master all the concepts in [this checklist](checklist.md).
+- However, before you consider this module fully finished, be sure you master all the concepts in [this checklist](../checklist.md).
 
 It all depends on the feedback you have received in the last weeks. What should you focus on improving? What's most important at this stage?
 

@@ -50,7 +50,7 @@ At the end of the Post Graduation Module, your mentor and the HYF team will cond
 
 - **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
 - **Communication**: Do you communicate clearly and precisely? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
-- **Responsibility and proactivity**: Are you on time (and planning) for meetings? Do you submit your assignments on time? Are you actively looking for support and ways to improve yourself?
+- **Responsibility and proactivity**: Are you on time (and planning) for meetings? Do you submit your assignments on time? Are you actively looking for support and ways to improve yourself? Do you plan meetings and seek for feedback? Do you apply that feedback andlook for ways to constantly improve yourself?
 
 
 ## Planning

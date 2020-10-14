@@ -48,7 +48,7 @@ Every week you'll be answering some important questions you would possibly find 
 The theme of [this weeks questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5) is: "Why do I want to be a software developer"?
 
 
-***Important: Take you time to prepare and elaborate this questions. They will come in handy for the end of this program and for when you apply to jobs!***
+***Important:*** Take you time to prepare and elaborate this questions. They will come in handy for the end of this program and for when you apply to jobs!
  
 ## 5. Learnings 1
  

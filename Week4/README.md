@@ -53,11 +53,11 @@ Once you are done, upload the video to Slack. I guess by now you are a master in
 - Have the video be at around 3 - 5 minutes.
 - Add a few funny effects if you have the editing skills.
 
-## 6. JavaScript Cardio 4
+## 6. JavaScript Cardio 4 (Optional)
 
 Are you getting the hang of it? The ability of using JavaScript is the same as any skill: the more you do it, the better you'll become! Follow along [this video](https://www.youtube.com/watch?v=tcoiPHktCwQ) and have fun playing around with some JavaScript functions!
 
-## 7. Algorithms 4
+## 7. Algorithms 4 (Optional)
 
 If you've worked on the algorithmic challenges from this module, you might havve noticed that a big part of solving them requires to `transform one data structure into another` and then manipulating it appropriately using the correct methods. Have you came up with some other insights? Do at least 5 more challenges from [this list](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/) of intermediate Algorithms.
 
@@ -83,7 +83,3 @@ It all depends on the feedback you have received in the last weeks. What should 
 Whatever that is, take a moment to also celebrate your successes! You are now a lot more prepared to succesfully apply for internships and/or jobs!
 
 Congratulations :)
-
-
-
-

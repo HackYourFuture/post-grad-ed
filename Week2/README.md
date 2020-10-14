@@ -43,3 +43,5 @@ We'll continue with more [JavaScript Cardio](https://www.youtube.com/watch?v=M2b
 Let's continue with [more algorithm challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Like last week, try to solve at least 5 of them.
 
 Do research, try to think step-by-step. And always remember that **there are multiple solutions to the same problem**.
+
+***Are you ready for [week 3](../Week3/README.md)?*** 

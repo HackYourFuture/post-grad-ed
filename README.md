@@ -71,9 +71,7 @@ If you finished the program and you still havent found an internship or job, you
 - Work on the TA's that you didnt worked on before but that are also in this repo
 - Contact the HYF team to setup a [Fellowship Group](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
 
-However, before you consider this step ***fully finished,*** let's do a final check:
-
-- [Job Preparation Checklist](checklist.md)
+- [Post Graduation Skills Checklist](checklist.md)
 
 You got this!
 

@@ -1,4 +1,4 @@
-# Postgrad Practice Week 3
+# PostGraduation Week 3
 
 ### Delivearables: 
 Deadline Friday 23.59 CET (unless defined different with your mentor)

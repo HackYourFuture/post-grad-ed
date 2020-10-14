@@ -33,7 +33,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 At the end of the week, share the code and deployed app with your mentor and group on Slack. Be sure to test the app before sharing it! Finally, don't forget to ask for feedback (or a code review) from your mentor. That's the best way to improve your skills.
 
-***ProTip: [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with these amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).***
+***ProTip: An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague and mentor! Check [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk) and review your own code! Can you clean up your code even further before submission?***
 
 ## 3. Video 1
 
@@ -45,9 +45,8 @@ Make a video explaining one concept you've learned during the development of the
 
 Every week you'll be answering some important questions you would possibly find inreal job interviews (or at least help you prepare for them). These questions are meant to challenge you and help make explicit what you want out of your career. The more you think about this and become aware of what you want, the better you'll do in an interview! The key is to be as honest and elaborate as possible. This means: take all the time you need to answer the questions.
 
-The theme of this week is: "Why do I want to be a software developer"?
+The theme of [this weeks questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5) is: "Why do I want to be a software developer"?
 
-- [Week 1 Questionnaire](https://hackyourfuture.typeform.com/to/NYnztGB5)
 
 ***Important: Take you time to prepare and elaborate this questions. They will come in handy for the end of this program and for when you apply to jobs!***
  
@@ -80,7 +79,5 @@ From this we can infer that `thinking algorithmically` refers to **the ability o
 
 You might think, "easier said than done!", and you are right. That's why we practice.
 
-In the following links you'll find several exercises to practice your algorithmic thinking skills! Do at least 5 of them.
-
-- [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+In the following links you'll find [several exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) to practice your algorithmic thinking skills! Do at least 5 of them.
 

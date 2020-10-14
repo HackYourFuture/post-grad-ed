@@ -38,9 +38,11 @@ Needless to say, do your upmost best on the TA's. When delivering great work, **
 
 **Important note for students:** Remember that your mentor volunteers for this practice because he/she wants to do so. Having said that, DON'T BE SHY AND ASK FOR HELP AND GUIDANCE! If the mentor is too busy at any given time, they will let you know. Also don't try to do all by yourself and learn from your mentor instead. They have many years of experience and working with them is a unique opportunity to learn!
 
-## About deadlines
+## About deadlines and dedication
 
 Deadlines are supposed to be every Friday at 23:59 hs. If (together with your mentor) you decide to move the deadlines to another day (maybe sunday, or monday in the following week) because that works bette that's fine as long as the new deadline is communicated in the group followed every week.
+
+To sucessfully complete this module you will need to spend a ***minimum of 30 hours of dedication per week***. Anyway, given we always say ***take HackYourFuture as a job and not a hobbie***, it's safe to assume you are full time available for it! If that is not the case, communicate with your mentor and the HYF to align expectations but know that our job-seeking support goes to those that are full-time committed.
 
 ### Performance review
 

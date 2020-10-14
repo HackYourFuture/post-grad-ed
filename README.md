@@ -4,90 +4,72 @@
 
 > This module is designed to be used alongside the [Getting your first job/internship guide](https://docs.google.com/document/d/1E9WMuH_razDA29uQ76hYRgVx0JBPGaXROioi1YiDmn0/edit?usp=sharing). Consider this the reading material to be used to keep your eye on the prize: a web developer job/internship.
 
-> Please help us improve and share your feedback! If you find better tutorials
-> or links, please share them by [opening a pull request](https://github.com/HackYourFuture/post-grad-ed/pulls).
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/post-grad-ed/pulls).
 
 # Post Graduation Education
 
 ![Postgrad](postgrad.png)
 
-Dear alumnus, congratulations on finishing the HackYourFuture 7 month program!
+Congratulations on finishing the HackYourFuture 7 month program!
 
-In this repository you'll find a curriculum that helps you prepare to apply for internships and to master the contents of our program.
+In this repository you'll find a curriculum that helps you further master the contents of our program, work on real technical assignment from companies and and further practice your presentation skills.
 
-These are the skills you're going to work on:
+Each of the following 4 weeks, you'll do exercises and assignments in order to strengthen your skills:
 
-**TECHNICAL**
+- **Technical assignments (TA):** This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies. During the first (and third) week you will have to make an assignment that complies with all the requirements. The second (and fourth) week you will take the applications to the next level by designing and implementing new features and functionality.
+- **Videos:** Every week you will have to record a video explaining a concept youve learned. In Week 4 you will also have to prepare a video job application which  will be your 'test' to see to what degree you are able to present yourself professionally and confidently.
+- **Plannings and learnings:** On weeks 1 and 3 you will share your planning on which technologies you will use for the upcoming TA and which features you will add in weeks 2 and 4. Additionally, every week you will share a small message with your group mentioning what you have learned by working on the TA.
+- **Questionnaires:** Every week you'll have to complete a simple questionnaire containing common interview questions that will challenge you to think about what you want out of your career. Put time to think about the answers as these can be usef in any real interview.
 
-- Web Application development
-- Algorithmic thinking
+Each week also contains aditional material to revise Javascript fundamentals and learn the basics of Algorithmic Thinking. While these sections are optional and your mentors won't give you feedback on them, we strongly recommend you to go through it to polish and improve your skills.
 
-**COMMUNICATION**
-
-- Explaining technical concepts
-- English fluency
-- Confidence
-
-**MINDSET**
-
-- Self-reflection
-- Ambition
-
-Each week you'll do exercises in order to strengthen all these skills:
-
-- **JavaScript cardio**: In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along
-- **Algorithms**: In these exercises you'll practice your ability to think in steps, by doing programming challenges
-- **Technical assignments**: This is the bulk of this module. You'll prepare for the job interview process, by making _real_ technical assignments that come from _real_ companies. During the first week you will have to make an assignment that complies with all the requirements. The second week you will take the application/s to the next level by designing and implementing new features and functionality.
-- **Questionnaire**: every week you'll (have to complete a) questionnaire containing questions that will challenge you to think about what you want out of your career. This will help you become more fluent and confident in presenting yourself in a job interview.
-
-In the final week you are asked to record a "video job application". This will be the your test to see to what degree you are able to present yourself professionally and confidently.
+- **JavaScript Cardio (Optional):** In these exercises you'll become more familiar with various JavaScript methods and practice with them. You'll watch videos and code along. 
+- **Algorithms (Optional):** In these exercises you'll practice your ability to think in steps, by doing programming challenges. 
 
 ## Mentorship & accountability
 
-During this module we expect you to behave like a **professional developer**. This means that you have meet deadlines and communicate accordingly.
+During this module we expect you to behave like a **professional developer**. This means that you have to meet deadlines and communicate accordingly.
 
-Failing to stick to deadlines and/or communicating properly about your progress will automatically drop you from this program and you will have to wait until a new edition starts. We as HackYourFuture as well as your mentors are available to help you go through this process but it is your responsibility to make it a success. Think of this module as a real job. 
+Failing to stick to deadlines and/or communicating about your progress or setbacks will drop you from this program. The HackYourFuture team as well as your mentors are available to help you go through this process, but it is your responsibility to make it a success. Think of this module as **a real job.** 
 
-At the start of this module you'll be paired up with a mentor, an established senior developer that will guide you along in the process of preparing for a job.
+At the start of this module you'll be paired up with a mentor. It's important that you 'make good use' of your mentor: they can help you plan how to approach the projects, can give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module. 
 
-It's important that you make good use of this mentor: they can help you face dilemmas on how to approach the projects, will give you feebdback and code reviews and be there to help you with what you need for a successful completion of the module.
+Having said that,  keep in mind that the mentor will respond to your requests and not be there to ask you what you need. It is **YOUR** responsibility to ask for help, to plan meetings and to make the best out of this opportunity. Do not wait for the mentor to take intitiative him/herself but rather show proactivity yourself by planning meetings, asking for support and code reviews, asking for their opinion on your planning, etc.
 
-Having said that, please keep in mind that the mentor won’t be an active participant of this practice but will respond to your requests. It is **YOUR** responsibility to ask for help and to make the best out of this opportunity. Do not wait for the mentor to take intitiative him/herself but rather show proactivity by planning meetings, asking for support and code reviews, asking for their opinion on your planning and new features, etc.
+Needless to say, do your upmost best on the TA's. When delivering great work, **these can become part of your CV to show employers the quality of your work.**
 
-Needless to say, do your upmost best on the Technical Assignments. When delivering great work, these can also become part of your CV to show possible employers the quality of your work.
+**Important note for students:** Remember that your mentor volunteers for this practice because he/she wants to do so. Having said that, DON'T BE SHY AND ASK FOR HELP AND GUIDANCE! If the mentor is too busy at any given time, they will let you know. Also don't try to do all by yourself and learn from your mentor instead. They have many years of experience and working with them is a unique opportunity to learn!
+
+## About deadlines
+
+Deadlines are supposed to be every Friday at 23:59 hs. If (together with your mentor) you decide to move the deadlines to another day (maybe sunday, or monday in the following week) because that works bette that's fine as long as the new deadline is communicated in the group followed every week.
 
 ### Performance review
 
-At the end of the Post Graduation Module, your mentor will conduct a **performance review** to provide you with feedback on how you performed in the past 4 weeks and how you can improve moving forward. The general factors to be evaluated are:
+At the end of the Post Graduation Module, your mentor and the HYF team will conduct a **performance review** to provide you with feedback on how you performed in the past 4 weeks and how you can improve moving forward. The general factors to be evaluated are:
 
-1. **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
-2. **Communication**: Do you communicates clearly with both colleagues and mentors? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
-3. **Responsibility and proactivity**: Are you on time for meetings? And do you submit the homework before the deadline? Are you actively looking for support and ways to improve yourself?
+- **Code Quality**: Do you have a good code style and write efficient, performant and maintainable code? Do you apply the suggested feedback in time and push code often?
+- **Communication**: Do you communicate clearly and precisely? Do you produce easily understandable videos and presentations? Do you reply to feedback constructively?
+- **Responsibility and proactivity**: Are you on time (and planning) for meetings? Do you submit your assignments on time? Are you actively looking for support and ways to improve yourself? Do you plan meetings and seek for feedback? Do you apply that feedback andlook for ways to constantly improve yourself?
 
-Additionally, the mentor will suggest things to you can to improve in the weeks after the module while you continue to look for a job or interview.
-
-Here you can already find a link to the survey:
-
-- [Performance Review](https://docs.google.com/document/d/11X69WKezQn7X3TYW14RoV6RDiJM-G0HEhX7jT5ddDVo/copy)
 
 ## Planning
 
-| Week | Topic                                                                               | Homework                        |
-| ---- | ----------------------------------------------------------------------------------- | ------------------------------- |
-| 1.   | JavaScript Cardio I, Algorithms I, Technical Assignment I                           | [Practice W1](/Week1/README.md) |
-| 2.   | JavaScript Cardio II, Algorithms II, Technical Assignment I                         | [Practice W2](/Week2/README.md) |
-| 3.   | JavaScript Cardio III, Algorithms III, Technical Assignment II                      | [Practice W3](/Week3/README.md) |
-| 4.   | JavaScript Cardio IV, Algorithms IV, Technical Assignment II, Video Job Application | [Practice W4](/Week4/README.md) |
+| Week | Weekly Deliverables                                                                 | Repositories               |
+| ---- | ----------------------------------------------------------------------------------- | -------------------------- |
+| 1.   | TA1 Planning + TA1 Code + Video 1 + Questionnaire 1 + Learnings 1                   | [WEEK 1](/Week1/README.md) |
+| 2.   | TA1 Final + Video 2 + Questionnaire 2 + Learnings 2                                 | [WEEK 2](/Week2/README.md) |
+| 3.   | TA2 Planning + TA2 Code + Video 3 + Questionnaire 3 + Learnings 3                   | [WEEK 3](/Week3/README.md) |
+| 4.   | TA2 Final + Video 4 + Questionnaire 4 + Learnings 4 + Video Job Application         | [WEEK 4](/Week4/README.md) |
 
 ## Finished?
 
-Have you been through all the 4 weeks? Awesome!
-
-It's important to know that the goal of this module is NOT to go through it and finish "knowing" how to do all these things. Working on these things is a never-ending process.
-
-Instead, your goal should be to become familiar with these topics and always keep on learning. That way getting a job will be a natural consequence of your efforts.
-
-However, before you consider this step fully finished, let's do a final check:
+If you finished the program and you still havent found an internship or job, you can:
+- Further practice your interviewing skills
+- Do (or redo) all the optional material
+- Further improve the TA's to add to your portfolio / CV
+- Work on the TA's that you didnt worked on before but that are also in this repo
+- Contact the HYF team to setup a [Fellowship Group](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
 
 - [Post Graduation Skills Checklist](checklist.md)
 

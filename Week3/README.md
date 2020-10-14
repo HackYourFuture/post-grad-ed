@@ -1,20 +1,53 @@
-# Postgrad Practice Week 3
+# PostGraduation Week 3
 
-## Agenda
+### Delivearables: 
+Deadline Friday 23.59 CET (unless defined different with your mentor)
 
-1. JavaScript Cardio III
-2. Algorithms III
-3. Developer skills: Writing documentation
-4. Technical Assignment II
-5. Questionnaire III
+1. TA2 Planning
+2. TA2 Code
+3. Video 3
+4. Questionnaire 3
+5. Learnings 3
 
-### 1. JavaScript Cardio
+### Optionals:
+6. JavaScript Cardio 3
+7. Algorithms 3
 
-It's time for some more Cardio! Follow the instructor and code along. A useful tip while learning is this: don't just brainlessly follow along. Instead, question what he's doing: why this way and not that way?
+## 1. TA2 Planning
 
-- [JavaScript Cardio 2](https://www.youtube.com/watch?v=FfchU1FS2IA)
+Discuss with your mentor which TA from [this list](./../technical-assignments/w3-w4) you will work on now and **make a plan** for it. Don't forget to add the learnings from the following documents (same as the ones shared on week1 of the PGP) and to already add to you planning a minimum of 3 additional features to be developed next week:
 
-### 2. Algorithms III
+- [Starting A Serious Web Development Project](https://www.youtube.com/watch?v=gGGPTskb7c8)
+- [The Creation of a Web Application](https://selftaughtcoders.com/creation-of-a-web-application/)
+- [Technical Assignment Tips for HackYourFuture Graduates](https://github.com/riccardobevilacqua/technical-assignment-tips) (IMPORTANT!)
+
+Once your planning is ready, share it on the Slack PGP channel, and be sure to get feedback from your mentor. 
+
+## 2. TA2 Code
+
+At the end of the week, share the code and deployed app with your mentor and group on Slack. Ask for feedback (and/or a code review) from your mentor. Same old eh :P
+
+***ProTip:*** A very important developer skill is the ability to use and write documentation. Learn [how To use developer documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0) and also [how to write effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc). Practice this new skill on your new TA and add it to the apps GitHub Repo!
+
+## 3. Video 3
+
+Make a video explaining one concept you've learned during the development of the project (or a concept that you want to practice) and share it on the PGP slack group!
+
+## 4. Questionnaire 3
+
+In [this week's questionnaire](https://hackyourfuture.typeform.com/to/h3rsXpWq) you'll be challenged to think about your aspiration as a developer. What type of developer would you like to be, and where do you see yourself working?
+
+## 5. Learnings 3
+ 
+Write a message with a minimum of 100 words including everything you've learned this week. Remember to make it as specific as possible. Once you are done, share it on Slack!
+
+
+## 6. JavaScript Cardio 3 (Optional)
+
+It's time for some more [JavaScript Cardio](https://www.youtube.com/watch?v=FfchU1FS2IA)! Follow the instructor and code along. A useful tip while learning is this: don't just brainlessly follow along. Instead, question what he's doing: why this way and not that way?
+
+
+## 7. Algorithms 3 (Optional)
 
 It's time for some more advanced algorithm challenges. These build on your skills gained from the previous week.
 
@@ -22,74 +55,6 @@ If it seems daunting, don't worry! You don't need to be a genius to solve them.
 
 Here's the secret behind algorithm challenges: **they're actually solutions to common programming problems**. If you can learn, memorize and understand them, you'll become a great developer in no time!
 
-Do at least 5 of the following challenges:
+Do at least 5 of the following [intermediate algorithms challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/).
 
-- [Intermediate Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
-
-### 3. Developer skills: Writing documentation
-
-Another important developer skill is to ability to **write** documentation. In practice you would usually only **use** documentation, but
-
-- [Writing effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc)
-- [How To Use Developer Documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0)
-
-Practice this new skill on your new TA and add it to the apps GitHub Repo!
-
-### 4. Technical Assignment II
-
-It's time for another technical assignment! 
-
-Go to the second [list](./../technical-assignments/w3-w4) and choose a new technical assignment. Be sure you and your team member agree on the same one.
-
-You're now 50% in! You're doing great! Let's continue this week with the third part of the course.
-
-Follow the instructions:
-
-- Pick a technical assignment that's challenging enough for you to spend 2 weeks on (ask your mentor for help if needed)
-- Make a plan of action of how you're goign to approach this assignment (use the aforementioned resources and share your final planning including the new features you will add to the app in the PGP channel)
-- Work on this assignment for one week **Deadline is next week FRIDAY 23.59 CET.** and in the final week add the new features and deploy it.
-
-While you're doing it, I'd like you to reflect on the list of concepts shared with you at the beginning of the week:
-
-```md
-- JavaScript fundamentals (basic syntax, event loop, OOP)
-- Form validation
-- HTTP
-- Synchronous versus asynchronous
-- Authentication & authorization
-- Client-server model
-- The role of JSON (parse, stringify)
-- API routing/client-side routing
-- Database modeling
-- Frontend state management
-- Code modularization
-- Working with external services/APIs
-```
-
-Are you able to understand them better now? If asked, would you be able to explain each concept and also how it applies to your project?
-
-Keep committing your work to your remote repository. Practice makes perfect.
-
-### 5. Questionnaire III
-
-This week you'll be challenged to think about your aspiration as a developer. What type of developer would you like to be, and where do you see yourself working?
-
-The theme of this week is: "What type of developer do I want to be?"
-
-- [Week 3 Questionnaire](https://hackyourfuture.typeform.com/to/h3rsXpWq)
-
-### Finished?
-
-At the end of this week you need to deliver upon the following in the PGP Slack channel:
-
-1. Write out in 100 words or less your number #1 key lesson you learned this week
-
-   > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
-
-2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
-
-3. Already make a pull request with including the current state of your technical assigment code and share your 2 TA planning including the new features you will code next week.
-
-4. Perform a code review on your pull request. For instructions on how to do this, look [here](./../how-to-code-review.md). What can you do better? Also connect with your mentor to get their feedback!
-
-_DEADLINE FRIDAY 23.59 CET_
+***Are you ready for [week 4](../Week4/README.md)?*** 

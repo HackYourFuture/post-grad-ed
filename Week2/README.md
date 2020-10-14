@@ -1,59 +1,47 @@
-# Postgrad Practice Week 2
+# PostGraduation Week 2
 
-## Agenda
+### Delivearables:
+Deadline Friday 23.59 CET (unless defined different with your mentor)
 
-1. JavaScript Cardio II
-2. Algorithms II
-3. Developer skills: Code reviews
-4. Technical Assignment I
-5. Questionnaire II
+1. TA1 Final
+2. Video 2
+3. Questionnaire 2
+4. Learnings 2
 
-### 1. JavaScript Cardio
+### Optionals:
+5. JavaScript Cardio II
+6. Algorithms II
 
-We'll continue with more JavaScript Cardio. You'll be doing several algorithm challenges. Code along with the instructor and play around with the solutions.
+## 1. TA1 Final
 
-- [JavaScript Cardio 1](https://www.youtube.com/watch?v=M2bJBuaOeOQ)
+This week you will develop the additional features to the TA1 which you already defined in your last week's planning. Once you are done, test your app, cover the [best practices](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips) and share the code and deployed version with your mentor and group on Slack. Again, don't forget to ask for feedback (and/or a code review) from your mentor and colleagues. That's the best way to improve your skills!
 
-### 2. Algorithms II
+After the feedback, you hopefully now have solved your first real technical assignment AND you have another cool adition to your CV and GitHub. If you still want to make improvements to the app that's great, but leave it for after the PGP module as next week you will start working on a new assignment! Practice makes perfect :)
 
-Let's continue with more algorithm challenges. Like last week, try to solve at least 5 of them.
+***ProTip:*** [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with these amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).
+
+## 2. Video 2
+
+Make a video explaining a concept you've learned during the development of the project (or a concept that you want to practice). For instructions on how you can do this, check [here](./../how-to-record-concept.md). Once ready, please share the video with the slack group and ask for feedback from your colleagues!
+
+***ProTip:*** Have you included any of the feedback you received on your last week's video? Is this week's video better than the last? Always try to take a moment to reflect if you are making progress and what that progress is exactly!
+
+## 3. Questionnaire 2
+
+This week we'll continue with [another set of questions](https://hackyourfuture.typeform.com/to/W7Nku0co), this time about you as a professional. Have you ever thought about your interpersonal skills in a professional context? What value could you add to a team or company?
+
+## 4. Learnings 2
+ 
+Write a message with a minimum of 100 words including everything you've learned this week. Remember to make it as specific as possible. Once you are done, share it on Slack!
+
+## 5. JavaScript Cardio 2 (Optional)
+
+We'll continue with more [JavaScript Cardio](https://www.youtube.com/watch?v=M2bJBuaOeOQ). You'll be doing several algorithm challenges. Code along with the instructor and play around with the solutions.
+
+## 6. Algorithms 2 (Optional)
+
+Let's continue with [more algorithm challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/). Like last week, try to solve at least 5 of them.
 
 Do research, try to think step-by-step. And always remember that **there are multiple solutions to the same problem**.
 
-- [Basic Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
-
-### 3. Developer skills: Code reviews
-
-An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague! Review the documentation below and review your own code! What can you do better?
-
-- [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
-
-### 4. Technical Assignment I
-
-Continue with the technical assignment. This week you will have to add the 3 features that are not part of the original requirements but that you added on your planning on week 1. 
-
-For the last part of the TA you will have to test it, deploy it and follow all recommendations included [here](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips). Once all is working and before the deadline, share your code page and deployed app on the PGP channel.
-
-And like previous weeks, make a video explaining one concept you've learned most about during the development of this project and post the video in the Slack channel!
-
-### 5. Questionnaire II
-
-This week we'll continue with another set of questions. This week is more about you as a professional. Have you ever thought about what your interpersonal skills in a professional context? What value could you add to a team, business or enterprise?
-
-The theme of this week is: "How are my interpersonal skills?"
-
-- [Week 2 Questionnaire](https://hackyourfuture.typeform.com/to/W7Nku0co)
-
-### Finished?
-
-At the end of this week you need to deliver upon the following in the Slack channel [#postgraduationpack](https://hackyourfuture.slack.com/archives/C010LE1F9U7):
-
-1. Write out in 100 words or less your number #1 key lesson you learned this week
-
-   > Don't make it generic, like "I learned that it's important to always keep learning". Instead, make it specific to your learning process. For example, "I learned that authentication is needed to safeguard certain routes from public access".
-
-2. A video explaining 1 concept you've learned about most about during the development of the project, find instructions [here](./../how-to-record-concept.md)
-
-3. A link to your GitHub repo for the technical assignment and a link with the deployed TA so we can all test and use it.
-
-_DEADLINE FRIDAY 23.59 CET_
+***Are you ready for [week 3](../Week3/README.md)?*** 

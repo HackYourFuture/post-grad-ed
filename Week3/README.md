@@ -56,3 +56,5 @@ If it seems daunting, don't worry! You don't need to be a genius to solve them.
 Here's the secret behind algorithm challenges: **they're actually solutions to common programming problems**. If you can learn, memorize and understand them, you'll become a great developer in no time!
 
 Do at least 5 of the following [intermediate algorithms challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/).
+
+***Are you ready for [week 4](../Week4/README.md)?*** 

@@ -33,7 +33,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 At the end of the week, share the code and deployed app with your mentor and group on Slack. Be sure to test the app before sharing it! Finally, don't forget to ask for feedback (or a code review) from your mentor. That's the best way to improve your skills.
 
-***ProTip: [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your GitHub profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with this amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).
+***ProTip: [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with this amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).***
 
 ## 3. Video 1
 

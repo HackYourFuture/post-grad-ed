@@ -81,5 +81,5 @@ You might think, "easier said than done!", and you are right. That's why we prac
 
 In the following links you'll find [several exercises](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/) to practice your algorithmic thinking skills! Do at least 5 of them.
 
-***Are you ready for [week 2](../Week2/README.md)? 
+***Are you ready for [week 2](../Week2/README.md)?*** 
 

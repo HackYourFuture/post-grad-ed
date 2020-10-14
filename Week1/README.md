@@ -33,7 +33,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 At the end of the week, share the code and deployed app with your mentor and group on Slack. Be sure to test the app before sharing it! Finally, don't forget to ask for feedback (or a code review) from your mentor. That's the best way to improve your skills.
 
-***ProTip: An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague and mentor! Check [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk) and review your own code! Can you clean up your code even further before submission?***
+***ProTip:*** An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague and mentor! Check [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk) and review your own code! Can you clean up your code even further before submission?
 
 ## 3. Video 1
 

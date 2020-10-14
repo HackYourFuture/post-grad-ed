@@ -63,7 +63,7 @@ If you've worked on the algorithmic challenges from this module, you might havve
 
 ## Performance Review
 
-Now that you have been working with a mentor for 4 weeks straight, he should have a good idea of how you performed and how you can improve moving forward based on his/her experience. Don't forget to ask your mentor for a performance review and (assuming you did a stellar job) a recommendation on LinkedIn! These usually impress employers!
+Now that you have been working with a mentor for 4 weeks straight, he should have a good idea of how you performed and how you can improve moving forward based on his/her experience. Don't forget to ask your mentor for a [performance review](../performance-review-template.md) and (assuming you did a stellar job) a recommendation on LinkedIn! These usually impress employers!
 
 Once you get your mentors review, share it with the HYF team so that together you can discuss the next steps to get an internship!
 

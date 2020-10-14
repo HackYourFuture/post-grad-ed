@@ -58,9 +58,7 @@ Write a message with a minimum of 100 words including everything you've learned 
 Once you are done, sharing it on Slack. Everyone is keen to see what you've done and learned this week!
 
 
-# Optionals:
-
-## 6. JavaScript Cardio 1
+## 6. JavaScript Cardio 1 (Optional)
 
 In order to become good at using a programming language, it's important to know the syntax. The various versions. And the different ways these can be used to write useful programs.
 
@@ -69,7 +67,7 @@ In this section you'll get several exercises you can do to train your ability to
 - [JavaScript Array Cardio Practice](https://www.youtube.com/watch?v=HB1ZC7czKRs)
 - [.some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2](https://www.youtube.com/watch?v=QNmRfyNg1lw)
 
-## 7. Algorithms 1
+## 7. Algorithms 1 (Optional)
 
 Thinking algorithmically is an essential part of a developer's mental toolkit. But what is an algorithm?
 

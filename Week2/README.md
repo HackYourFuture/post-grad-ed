@@ -1,9 +1,7 @@
 # PostGraduation Week 2
 
-### Delivearables: 
+### Delivearables:
 Deadline Friday 23.59 CET (unless defined different with your mentor)
-
-TA1 Final + Video 2 + Questionnaire 2 + Learnings 2
 
 1. TA1 Final
 2. Video 2

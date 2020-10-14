@@ -11,7 +11,7 @@ As a mentor you will work closely with two gradautes. Some of the activities of 
 - Having weekly calls with them to discuss their TAs and technical videos and motivate the students to take their assignments to the next level. Depending on the quality of their project, students can add it to their CV as a 'Personal Project'.
 - Acting as a real employer/interviewer every time they submit their Technical Assignments giving feedback and interviewing the student.
 - Assessing whether their mindset and attitude is improving throughout the 4 weeks
-- Completing a [Performance review](../performance-review-template.md) at the end of the program for each of your mentees and suggesting them ways to improve further.
+- Completing a [Performance review](performance-review-template.md) at the end of the program for each of your mentees and suggesting them ways to improve further.
 
 ## Each week, students have to deliver:
 
@@ -51,7 +51,7 @@ Please be critcial but constructive. The idea here is that the students improve.
 - Can it be improved? How?
 
 ## Other notes:
-- At the end of the 4-week practice, please send your mentee a performance review to share with him/her what’s going well and what could use improvement. Please share this also with the HYF team so we know how things are going with the student and if he/she is ready to be introduced to companies! You can find a template for that [here](../performance-review-template.md). If you feel the student is not performing well, please communicate with the HYF team.
+- At the end of the 4-week practice, please send your mentee a performance review to share with him/her what’s going well and what could use improvement. Please share this also with the HYF team so we know how things are going with the student and if he/she is ready to be introduced to companies! You can find a template for that [here](performance-review-template.md). If you feel the student is not performing well, please communicate with the HYF team.
 - Students are expected to spend between 20-40 hours in this practice to really make progress in the 4 weeks. If you don’t see this happening, please address it.
 - Weekly deadlines should be always respected. Besides teaching students how to code and do technical assignments, we want to also teach them good communication and planning skills.
 - Try to motivate the student not to only comply with the minimum requirements of the assignment but to do their upmost best. If the TAs look and work good, they can be part of their CVs which is crucial at this point, given that they do not have many projects to show their skills yet.

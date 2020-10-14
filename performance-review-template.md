@@ -19,7 +19,7 @@ Rate: Outstanding | Good | Needs Improvement | Poor | Comments:
 
 Rate: Outstanding | Good | Needs Improvement | Poor | Comments:
 
-3. **Responsibility and Proactivity**: Is on time for meetings. Submits assignments on time. Plans meetings and seels for feedback. Applies feedback. Looks for ways to constantly improve him/herself.
+3. **Responsibility and Proactivity**: Is on time for meetings. Submits assignments on time. Plans meetings and seeks for feedback. Applies feedback. Looks for ways to constantly improve him/herself.
 
 Rate: Outstanding | Good | Needs Improvement | Poor | Comments:
 

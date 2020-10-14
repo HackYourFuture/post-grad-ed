@@ -44,9 +44,8 @@ Write a message with a minimum of 100 words including everything you've learned 
 
 ## 6. JavaScript Cardio 3 (Optional)
 
-It's time for some more Cardio! Follow the instructor and code along. A useful tip while learning is this: don't just brainlessly follow along. Instead, question what he's doing: why this way and not that way?
+It's time for some more [JavaScript Cardio](https://www.youtube.com/watch?v=FfchU1FS2IA)! Follow the instructor and code along. A useful tip while learning is this: don't just brainlessly follow along. Instead, question what he's doing: why this way and not that way?
 
-- [JavaScript Cardio 3](https://www.youtube.com/watch?v=FfchU1FS2IA)
 
 ## 7. Algorithms 3 (Optional)
 

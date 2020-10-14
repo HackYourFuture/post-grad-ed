@@ -20,13 +20,13 @@ This week you will develop the additional features to the TA1 which you already 
 
 After the feedback, you hopefully now have solved your first real technical assignment AND you have another cool adition to your CV and GitHub. If you still want to make improvements to the app that's great, but leave it for after the PGP module as next week you will start working on a new assignment! Practice makes perfect :)
 
-***ProTip: [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with these amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).***
+***ProTip:*** [Clean up your GitHub](https://medium.com/@sharonlin/cleaning-up-your-github-fedaf9e7cef2) and [make your profile great again](https://dev.to/pedes/make-your-github-profile-great-again-oan) with these amazing articles and [examples](https://github.com/kautukkundan/Awesome-Profile-README-templates).
 
 ## 2. Video 2
 
 Make a video explaining a concept you've learned during the development of the project (or a concept that you want to practice). For instructions on how you can do this, check [here](./../how-to-record-concept.md). Once ready, please share the video with the slack group and ask for feedback from your colleagues!
 
-***ProTip: Have you included any of the feedback you received on your last week's video? Is this week's video better than the last? Always try to take a moment to reflect if you are making progress and what that progress is exactly!***
+***ProTip:*** Have you included any of the feedback you received on your last week's video? Is this week's video better than the last? Always try to take a moment to reflect if you are making progress and what that progress is exactly!
 
 ## 3. Questionnaire 2
 

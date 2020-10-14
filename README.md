@@ -69,7 +69,7 @@ If you finished the program and you still havent found an internship or job, you
 - Do (or redo) all the optional material
 - Further improve the TA's to add to your portfolio / CV
 - Work on the TA's that you didnt worked on before but that are also in this repo
-- Contact the HYF to setup a [Fellowship Team](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
+- Contact the HYF team to setup a [Fellowship Group](https://www.hackyourfuture.net/fellowship/) and work on some awesome projects!
 
 However, before you consider this step ***fully finished,*** let's do a final check:
 

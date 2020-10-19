@@ -16,7 +16,8 @@ As a mentor you will work closely with two gradautes. Some of the activities of 
 ## Each week, students have to deliver:
 
 - A 5 minute long video in which they explain 1 web development concept, including self-written code examples.
-- The technical assignment: Week 1 (and 3) they will deliver a Technical assignment with all its functionality and requirements, and week 2 (and 4) they will add at least 3 new features to each TA and deploy it.
+- A technical assignment planning (only in weeks 1 and 3): Before starting to code their TAs they need to present an assignment planning (including technologies to be used, requirements and further features to be developed, etc).
+- The technical assignment: At the end of week 1 (and week 3) they will deliver their Technical assignment with all its core functionality and requirements as stated in the exercise. On week 2 (and 4) they will re-sumit their TA but this time including 3 new features and the feedback given by you. 
 
 Students will post the links to their assignments and videos in the #postgraduation channel so other students can also see and comment on the work.
 

@@ -8,7 +8,7 @@
 
 ![Postgrad](postgrad.png)
 
-Congratulations on finishing the HackYourFuture 7 month program!
+Congratulations on finishing the HackYourFuture 7-month program!
 
 In this repository you'll find a curriculum that helps you further master the contents of our program, work on real technical assignment from companies and and further practice your presentation skills.
 

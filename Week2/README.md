@@ -14,7 +14,9 @@ Deadline Friday 23.59 CET (unless defined different with your mentor)
 
 ## 1. TA1 Final
 
-This week you will develop the additional features to the TA1 which you already defined in your last week's planning. Once you are done, test your app, cover the [best practices](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips) and share the code and deployed version with your mentor and group on Slack. Again, don't forget to ask for feedback (and/or a code review) from your mentor and colleagues. That's the best way to improve your skills!
+This week you will develop the additional features to the TA1 which you already defined in your last week's planning. Additionally, we expect you to put focus also on the styling of the app. This TA will become part of your CV and is crucial that it not only works well but that it also looks good! Know that sometimes recruiters do not have a technical background, reason why they will also judge your projects based on their looks. This doesn't mean you should do design work, but you should be able to make the project look cool, maybe even add some exciting animations and always following [good UI practices](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/).
+
+Once you are done, test your app, cover the [best practices](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips) and share the code and deployed version with your mentor and group on Slack. Again, don't forget to ask for feedback (and/or a code review) from your mentor and colleagues. That's the best way to improve your skills!
 
 After the feedback, you hopefully now have solved your first real technical assignment AND you have another cool adition to your CV and GitHub. If you still want to make improvements to the app that's great, but leave it for after the PGP module as next week you will start working on a new assignment! Practice makes perfect :)
 

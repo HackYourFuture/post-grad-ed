@@ -15,7 +15,7 @@ Deadline Friday 23.59 CET (unless defined different with your mentor)
 
 ## 1. TA2 Final
 
-This week you will develop the additional features to the TA2 which you already defined in your last week's planning. Once you are done, test your app, cover the [best practices](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips) and share the code and deployed version with your mentor and group on Slack. Again, don't forget to ask for feedback (and/or a code review).
+This week you will develop the additional features to the TA2 which you already defined in your last week's planning. Once you are done, test your app, cover the [best practices](https://github.com/riccardobevilacqua/technical-assignment-tips#technical-assignment-tips), be sure to style it (as it will become part of your CV) and share the code and deployed version with your mentor and group on Slack. Again, don't forget to ask for feedback (and/or a code review). 
 
 ***ProTip:*** `Unit testing` (or writing code that tests the functionality of individual "units or JavaScript functions" that make up your software) is a crucial concept for all devs to master. In this definition, a "unit" can be as simple as a JavaScript function. Chech this [JavaScript testing introduction tutorial](https://www.youtube.com/watch?v=r9HdJ8P6GQI) and [get started with unit testing](https://www.youtube.com/watch?v=GEqeltCQP8c)!
 

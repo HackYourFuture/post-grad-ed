@@ -33,7 +33,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 At the end of the week, share the code and deployed app with your mentor and group on Slack. Know that companies usually give you 3 days to finish such assignment so given you will have 3 more days than that, we expect you to put some effort on the way your app looks also. Also, be sure to test the app before sharing it! Finally, don't forget to ask for feedback (or a code review) from your mentor. That's the best way to improve your skills.
 
-***ProTip:*** An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague and mentor! Check [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk) and review your own code! Can you clean up your code even further before submission? [Here](https://github.com/HackYourFuture/post-grad-ed/blob/v3/how-to-code-review.md) also an awesome guide on how to perform code reviews for HackYourFuture graduates and mentors!
+***ProTip:*** An absolute essential skill of a great developer is the ability to do code reviews. This will not only make you a better developer, but also a great colleague and mentor! Check [The Science of Code Reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk) and review your own code! Can you clean up your code even further before submission? [Here](https://github.com/HackYourFuture/post-grad-ed/blob/master/how-to-code-review.md) also an awesome guide on how to perform code reviews for HackYourFuture graduates and mentors!
 
 ## 3. Video 1
 

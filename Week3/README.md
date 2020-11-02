@@ -25,7 +25,7 @@ Once your planning is ready, share it on the Slack PGP channel, and be sure to g
 
 ## 2. TA2 Code
 
-At the end of the week, share the code and deployed app with your mentor and group on Slack. Ask for feedback (and/or a code review) from your mentor. Same old eh :P
+At the end of the week, share the code and deployed app with your mentor and group on Slack. Ask for feedback (and/or a code review) from your mentor.  Be sure to test it, to style it and to do your best. Same old eh :P
 
 ***ProTip:*** A very important developer skill is the ability to use and write documentation. Learn [how To use developer documentation](https://www.youtube.com/watch?v=s1PLS3SQHQ0) and also [how to write effective documentation](https://www.youtube.com/watch?v=R6zeikbTgVc). Practice this new skill on your new TA and add it to the apps GitHub Repo!
 

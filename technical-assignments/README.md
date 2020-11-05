@@ -2,7 +2,7 @@
 
 Technical assignments are an essential part of the job application process. At first it might seem like a daunting challenge, but understanding the mechanics and learning the right approach will help you feel more relaxed about it. This in turn will help you increase your chance of getting the job!
 
-**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact your mentor or Education Director. While they cannot do any of the code for you, they will help you make a plan, discuss the requirements and ensure that you do as well as possible on the assignment. 
+**Important!** If you receive a technical assignment for a real job opportunity, please be sure to contact your mentor or Education Director. While they won't do any of the code for you, they will help you make a plan, discuss the requirements and ensure that you approach the challenge the right way. 
 
 ## The why of TAs
 

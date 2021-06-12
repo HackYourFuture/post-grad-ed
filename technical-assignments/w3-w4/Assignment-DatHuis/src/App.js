@@ -82,6 +82,7 @@ const ArrowLabel = styled.label`
     transform: rotateZ(-180deg);
   }
 `;
+
 const DropDown = styled.ul`
   position: absolute;
   background-color: white;
@@ -98,9 +99,6 @@ const DropDown = styled.ul`
   ${StyledInput}:focus ~ & {
     display: block;
   }
-  ${StyledInput}:valid ~ & {
-    display: block;
-  }
 `;
 const StyledOption = styled.option`
   background-color: gray;
@@ -109,14 +107,19 @@ const StyledOption = styled.option`
   margin-bottom: 1px;
   font-size: 18px;
   cursor: pointer;
+  &:hover {
+    background-color: white;
+  }
 `;
+
 const App = () => {
   const [listNames, setListNames] = useState([]);
-  const [selectedName, setSelectedName] = useState([]);
+  const [selectedName, setSelectedName] = useState('');
 
   console.log(selectedName);
   const names = listNames.map((name) => name.name);
   console.log(names);
+
   useEffect(() => {
     setListNames(MOCKDATA);
   }, []);
@@ -126,7 +129,7 @@ const App = () => {
       <Wrapper>
         <StyledInput
           value={selectedName}
-          onChange={(e) => setSelectedName([e.target.value])}
+          onChange={(e) => setSelectedName(e.target.value)}
           required
         />
 
@@ -136,16 +139,16 @@ const App = () => {
             style={{color: 'blue', paddingRight: '3px', fontSize: '15px'}}
             icon={faSearch}
           />
-          Type or search...{' '}
+          Type or search...
         </TypeLabel>
         <ArrowLabel>
           <FontAwesomeIcon style={{fontSize: '15px'}} icon={faChevronDown} />
         </ArrowLabel>
-        <DropDown>
+        <DropDown onSelect={(e) => setSelectedName(e.target.value)}>
           {names.map((name, index) => (
             <StyledOption
               key={index}
-              onClick={(e) => setSelectedName([e.currentTarget.value])}
+              onMouseDown={(e) => setSelectedName(e.target.value)}
               value={name}
             >
               {name}

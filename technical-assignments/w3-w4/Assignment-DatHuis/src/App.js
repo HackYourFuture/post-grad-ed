@@ -17,6 +17,7 @@ const AppContainer = styled.div`
 const Wrapper = styled.div`
   position: relative;
   width: 300px;
+  margin: 0 auto;
 `;
 
 const StyledInput = styled.input`
@@ -28,6 +29,8 @@ const StyledInput = styled.input`
   position: relative;
   padding-left: 29px;
   color: #4a4a4a;
+  outline: none;
+
   &:hover {
     border: 1px solid #4a4a4a;
   }
@@ -86,16 +89,17 @@ const ArrowLabel = styled.label`
 const DropDown = styled.ul`
   position: absolute;
   background-color: white;
-  border: 1px solid blue;
+  border: 1px solid gray;
   border-radius: 0 0 5px 5px;
   border-top: none;
   font-family: sans-serif;
-  width: 350px;
+  width: 300px;
   padding: 5px;
   overflow-y: scroll;
-  height: 200px;
+  max-height: 185px;
   margin-top: 20px;
   display: none;
+
   ${StyledInput}:focus ~ & {
     display: block;
   }
@@ -107,6 +111,7 @@ const StyledOption = styled.option`
   margin-bottom: 1px;
   font-size: 18px;
   cursor: pointer;
+
   &:hover {
     background-color: white;
   }
@@ -115,13 +120,14 @@ const StyledOption = styled.option`
 const App = () => {
   const [listNames, setListNames] = useState([]);
   const [selectedName, setSelectedName] = useState('');
-
-  console.log(selectedName);
-  const names = listNames.map((name) => name.name);
-  console.log(names);
+  const handleChange = (e) => {
+    setSelectedName(e.target.value);
+  };
 
   useEffect(() => {
-    setListNames(MOCKDATA);
+    const ArrayOfNames = MOCKDATA.map((name) => name.name);
+    const removedNull = ArrayOfNames.filter((e) => e != null);
+    setListNames(removedNull);
   }, []);
 
   return (
@@ -129,7 +135,8 @@ const App = () => {
       <Wrapper>
         <StyledInput
           value={selectedName}
-          onChange={(e) => setSelectedName(e.target.value)}
+          onKeyUp={handleChange}
+          onChange={handleChange}
           required
         />
 
@@ -144,16 +151,26 @@ const App = () => {
         <ArrowLabel>
           <FontAwesomeIcon style={{fontSize: '15px'}} icon={faChevronDown} />
         </ArrowLabel>
-        <DropDown onSelect={(e) => setSelectedName(e.target.value)}>
-          {names.map((name, index) => (
-            <StyledOption
-              key={index}
-              onMouseDown={(e) => setSelectedName(e.target.value)}
-              value={name}
-            >
-              {name}
-            </StyledOption>
-          ))}
+        <DropDown>
+          {listNames
+            .filter((val) => {
+              if (selectedName == '') {
+                return val;
+              } else if (
+                val.toLowerCase().includes(selectedName.toLowerCase())
+              ) {
+                return val;
+              }
+            })
+            .map((name, index) => (
+              <StyledOption
+                key={index}
+                onMouseDown={(e) => setSelectedName(e.target.value)}
+                value={name}
+              >
+                {name}
+              </StyledOption>
+            ))}
         </DropDown>
       </Wrapper>
 

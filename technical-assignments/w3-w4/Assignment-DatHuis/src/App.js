@@ -11,13 +11,9 @@ const AppContainer = styled.div`
   background-color: white;
   width: 100%;
   height: 100vh;
+  position: relative;
 `;
-const DropDown = styled.div`
-  height: 100px;
-  overflow-y: scroll;
-  width: 300px;
-  margin-top: 20px;
-`;
+
 const Wrapper = styled.div`
   position: relative;
   width: 300px;
@@ -86,14 +82,41 @@ const ArrowLabel = styled.label`
     transform: rotateZ(-180deg);
   }
 `;
-
+const DropDown = styled.ul`
+  position: absolute;
+  background-color: white;
+  border: 1px solid blue;
+  border-radius: 0 0 5px 5px;
+  border-top: none;
+  font-family: sans-serif;
+  width: 350px;
+  padding: 5px;
+  overflow-y: scroll;
+  height: 200px;
+  margin-top: 20px;
+  display: none;
+  ${StyledInput}:focus ~ & {
+    display: block;
+  }
+  ${StyledInput}:valid ~ & {
+    display: block;
+  }
+`;
+const StyledOption = styled.option`
+  background-color: gray;
+  padding: 4px;
+  color: blue;
+  margin-bottom: 1px;
+  font-size: 18px;
+  cursor: pointer;
+`;
 const App = () => {
   const [listNames, setListNames] = useState([]);
-  const [selectedName, setSelectedName] = useState('');
+  const [selectedName, setSelectedName] = useState([]);
 
   console.log(selectedName);
-  // const names = listNames.map((name) => name.name);
-  // console.log(names);
+  const names = listNames.map((name) => name.name);
+  console.log(names);
   useEffect(() => {
     setListNames(MOCKDATA);
   }, []);
@@ -103,7 +126,7 @@ const App = () => {
       <Wrapper>
         <StyledInput
           value={selectedName}
-          onChange={(e) => setSelectedName(e.target.value)}
+          onChange={(e) => setSelectedName([e.target.value])}
           required
         />
 
@@ -115,24 +138,21 @@ const App = () => {
           />
           Type or search...{' '}
         </TypeLabel>
-        <ArrowLabel onClick={() => console.log('heool')}>
+        <ArrowLabel>
           <FontAwesomeIcon style={{fontSize: '15px'}} icon={faChevronDown} />
         </ArrowLabel>
+        <DropDown>
+          {names.map((name, index) => (
+            <StyledOption
+              key={index}
+              onClick={(e) => setSelectedName([e.currentTarget.value])}
+              value={name}
+            >
+              {name}
+            </StyledOption>
+          ))}
+        </DropDown>
       </Wrapper>
-      {/* <DropDown id='browsers'>
-        <option value='Chrome'>Chrome</option>
-        <option value='Chrome2'>Chrome2</option>
-        <option value='Firefox'>Firefox</option>
-        <option value='Internet Explorer'>Explorer</option>
-        <option value='Opera'>Opera</option>
-        <option value='Safari'>Safari</option>
-        <option value='Microsoft Edge'>Microsoft</option>
-        <option value='Firefox'>Firefox</option>
-        <option value='Internet Explorer'>Explorer</option>
-        <option value='Opera'>Opera</option>
-        <option value='Safari'>Safari</option>
-        <option value='Microsoft Edge'>Microsoft</option>
-      </DropDown> */}
 
       {/* <div>
         Have a look at the readme.md file for what is expected. And as always:

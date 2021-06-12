@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1578068509153" clover="3.2.0">
-  <project timestamp="1578068509153" name="All files">
+<coverage generated="1623351783830" clover="3.2.0">
+  <project timestamp="1623351783830" name="All files">
     <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="3" complexity="0" loc="3" ncloc="3" packages="1" files="3" classes="3"/>
-    <file name="App.js" path="/Users/robvk/Projects/dh-frontend-assignment/src/App.js">
+    <file name="App.js" path="/Users/MohammedSaif/Desktop/post-grad-ed/technical-assignments/w3-w4/Assignment-DatHuis/src/App.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
     </file>
-    <file name="HotApp.js" path="/Users/robvk/Projects/dh-frontend-assignment/src/HotApp.js">
+    <file name="HotApp.js" path="/Users/MohammedSaif/Desktop/post-grad-ed/technical-assignments/w3-w4/Assignment-DatHuis/src/HotApp.js">
       <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
     </file>
-    <file name="entry.js" path="/Users/robvk/Projects/dh-frontend-assignment/src/entry.js">
+    <file name="entry.js" path="/Users/MohammedSaif/Desktop/post-grad-ed/technical-assignments/w3-w4/Assignment-DatHuis/src/entry.js">
       <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <line num="7" count="0" type="stmt"/>
     </file>

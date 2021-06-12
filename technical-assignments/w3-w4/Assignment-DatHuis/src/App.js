@@ -89,9 +89,8 @@ const ArrowLabel = styled.label`
 const DropDown = styled.ul`
   position: absolute;
   background-color: white;
-  border: 1px solid gray;
+  border: 3px solid gray;
   border-radius: 0 0 5px 5px;
-  border-top: none;
   font-family: sans-serif;
   width: 300px;
   padding: 5px;
@@ -120,6 +119,7 @@ const StyledOption = styled.option`
 const App = () => {
   const [listNames, setListNames] = useState([]);
   const [selectedName, setSelectedName] = useState('');
+
   const handleChange = (e) => {
     setSelectedName(e.target.value);
   };
@@ -129,6 +129,15 @@ const App = () => {
     const removedNull = ArrayOfNames.filter((e) => e != null);
     setListNames(removedNull);
   }, []);
+
+  const filteredNames = listNames.filter((name) => {
+    if (selectedName == '') {
+      return name;
+    } else if (name.toLowerCase().includes(selectedName.toLowerCase())) {
+      return name;
+    }
+  });
+  console.log('filted', filteredNames);
 
   return (
     <AppContainer>
@@ -152,17 +161,10 @@ const App = () => {
           <FontAwesomeIcon style={{fontSize: '15px'}} icon={faChevronDown} />
         </ArrowLabel>
         <DropDown>
-          {listNames
-            .filter((val) => {
-              if (selectedName == '') {
-                return val;
-              } else if (
-                val.toLowerCase().includes(selectedName.toLowerCase())
-              ) {
-                return val;
-              }
-            })
-            .map((name, index) => (
+          {selectedName && filteredNames.length === 0 ? (
+            <p>Sorry there is not name </p>
+          ) : (
+            filteredNames.map((name, index) => (
               <StyledOption
                 key={index}
                 onMouseDown={(e) => setSelectedName(e.target.value)}
@@ -170,7 +172,8 @@ const App = () => {
               >
                 {name}
               </StyledOption>
-            ))}
+            ))
+          )}
         </DropDown>
       </Wrapper>
 

@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const AppContainer = styled.div`
-  padding: 10%;
-  background-color: white;
-  width: 100%;
+  padding-top: 15vh;
+  background-color: wheat;
+  width: 100vw;
   height: 100vh;
   position: relative;
 `;

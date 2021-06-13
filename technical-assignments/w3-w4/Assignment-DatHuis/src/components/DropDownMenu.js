@@ -1,4 +1,5 @@
 import React from 'react';
+import Message from './Message';
 import {StyledDropDownMenu, StyledOption} from './styled/dropDownMenu.style';
 
 const DropDownMenu = ({selectedName, filteredNames, setSelectedName}) => {
@@ -10,7 +11,7 @@ const DropDownMenu = ({selectedName, filteredNames, setSelectedName}) => {
     <>
       <StyledDropDownMenu>
         {selectedName && filteredNames.length === 0 ? (
-          <p>Sorry there is not name </p>
+          <Message Message message='Opps, Name is not found.'></Message>
         ) : (
           filteredNames.map((name, index) => (
             <StyledOption key={index} onMouseDown={handleOnMouse} value={name}>

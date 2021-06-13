@@ -1,11 +1,12 @@
 const Theme = {
   colors: {
-    main: '#ffffff',
-    dark: 'GREEN',
+    dark: '#798697',
+    extraDark: '#4a4a4a',
+    light: '#bfc5cd',
   },
   fontSizes: {
-    large: '2rem',
-    medium: '1rem',
+    primary: '16px',
+    small: '0.9rem',
   },
 };
 

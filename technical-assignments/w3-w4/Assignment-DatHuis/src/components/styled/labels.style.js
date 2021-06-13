@@ -1,14 +1,37 @@
 import styled from 'styled-components';
 import {StyledInputField} from './inputField.styles';
 
-export const TypeLabel = styled.label`
+export const ContactLabel = styled.label`
+  font-size: ${(props) => props.theme.fontSizes.primary};
+  color: ${(props) => props.theme.colors.dark};
   position: absolute;
+  left: 34px;
+  top: 16px;
   pointer-events: none;
+  transition: 0.7s ease all;
 
-  left: 20px;
-  top: 14px;
+  ${StyledInputField}:focus ~ & {
+    color: ${(props) => props.theme.colors.extraDark};
+    font-size: ${(props) => props.theme.fontSizes.small};
+    top: -18px;
+    left: 8px;
+  }
+  ${StyledInputField}:valid ~ & {
+    color: ${(props) => props.theme.colors.extraDark};
+    font-size: ${(props) => props.theme.fontSizes.small};
+    top: -18px;
+    left: 8px;
+  }
+`;
+
+export const TypeLabel = styled.label`
+  font-size: ${(props) => props.theme.fontSizes.primary};
+  color: ${(props) => props.theme.colors.light};
+  position: absolute;
+  left: 15px;
+  top: 16px;
+  pointer-events: none;
   display: none;
-  color: #bfc5cd;
 
   ${StyledInputField}:focus ~ & {
     display: block;
@@ -17,35 +40,13 @@ export const TypeLabel = styled.label`
     display: none;
   }
 `;
-export const ContactLabel = styled.label`
-  position: absolute;
-  pointer-events: none;
-
-  left: 20px;
-  top: 14px;
-  transition: 0.3s ease all;
-  color: #798697;
-
-  ${StyledInputField}:focus ~ & {
-    top: -20px;
-    left: 5px;
-    font-size: 12px;
-  }
-  ${StyledInputField}:valid ~ & {
-    top: -20px;
-    left: 5px;
-    font-size: 12px;
-  }
-`;
 
 export const ArrowLabel = styled.label`
   position: absolute;
-  pointer-events: none;
-
   right: 20px;
-  top: 14px;
-  transition: 0.3s ease all;
-  color: #798697;
+  top: 16px;
+  pointer-events: none;
+  transition: 0.7s ease all;
 
   ${StyledInputField}:focus ~ & {
     transform: rotateZ(-180deg);

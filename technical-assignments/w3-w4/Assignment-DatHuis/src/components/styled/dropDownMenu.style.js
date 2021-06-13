@@ -5,7 +5,7 @@ export const StyledDropDownMenu = styled.ul`
   border: 1px solid ${(props) => props.theme.colors.light};
   background-color: #ffffff;
   border-radius: 3px;
-  margin-top: 5px;
+  margin: 5px auto 0 auto;
   padding: 5px 0 5px 0;
   font-family: sans-serif;
   overflow-y: scroll;

@@ -11,7 +11,6 @@ export const StyledInputField = styled.input`
   padding-left: 34px;
   position: relative;
   letter-spacing: 1px;
-
   &:hover {
     border: 1px solid ${(props) => props.theme.colors.extraDark};
   }

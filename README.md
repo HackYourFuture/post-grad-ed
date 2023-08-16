@@ -1,6 +1,6 @@
 > If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
-> If you are a PGP mentor, take a look at our guide on how to [mentor PostGradStudents](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md).
+> If you are a PGP mentor, take a look at our guide on how to [mentor PostGrads](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md).
 
 > Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/post-grad-ed/pulls).
 
@@ -36,14 +36,14 @@ Having said that,  keep in mind that the mentor will respond to your requests an
 
 Needless to say, do your upmost best on the TA's. When delivering great work, **these can become part of your CV to show employers the quality of your work.**
 
-**Important note for students:** Remember that your mentor volunteers for this practice because he/she wants to do so. Having said that, DON'T BE SHY AND ASK FOR HELP AND GUIDANCE! If the mentor is too busy at any given time, they will let you know. Also don't try to do all by yourself and learn from your mentor instead. They have many years of experience and working with them is a unique opportunity to learn!
+**Important note for trainees:** Remember that your mentor volunteers for this practice because he/she wants to do so. Having said that, DON'T BE SHY AND ASK FOR HELP AND GUIDANCE! If the mentor is too busy at any given time, they will let you know. Also don't try to do all by yourself and learn from your mentor instead. They have many years of experience and working with them is a unique opportunity to learn!
 
 ## About deadlines and dedication
 
 Deadlines are supposed to be every Friday at 23:59 hs. If (together with your mentor) you decide to move the deadlines to another day (maybe sunday, or monday in the following week) because that works bette that's fine as long as the new deadline is communicated in the group followed every week.
 
 To successfully complete this module you will need to spend a minimum of 30 hours of quality hours per week.
-Since you should ***treat HackYourFuture as a job and not a hobby***, the more hours the better. Some of our best PGP students put in 40-50 hours a week. With more skills and a better end project, this has helped them to find a job faster.
+Since you should ***treat HackYourFuture as a job and not a hobby***, the more hours the better. Some of our best PGP trainees put in 40-50 hours a week. With more skills and a better end project, this has helped them to find a job faster.
 
 If you don’t have enough time, communicate this to your mentor and the HYF staff. However, know that our job-seeking support goes first to those of you that show full-time commitment and excellent communication skills.
 

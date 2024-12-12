@@ -1,4 +1,4 @@
-# Mentoring PostGrad Students
+# Mentoring PostGrads
 
 The purpose of the module is to prepare students for a job interview both in terms of soft and technical skills. They will repeat the fundamentals learned on our course (web application development, algorithmic thinking and technical communication) by doing different coding challenges and by working on real technical assignments.
 

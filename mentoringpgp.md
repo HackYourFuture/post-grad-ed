@@ -3,7 +3,7 @@
 The purpose of the module is to prepare students for a job interview both in terms of soft and technical skills. They will repeat the fundamentals learned on our course (web application development, algorithmic thinking and technical communication) by doing different coding challenges and by working on real technical assignments.
 
 ## Your role:
-As a mentor you will work closely with two gradautes. Some of the activities of a PGP Mentor are:
+As a mentor you will work closely with two graduates. Some of the activities of a PGP Mentor are:
 
 - Reviewing student's explanations of technical concepts done through videos - 1 per week. 
 - Helping students understand how to approach technical assignments. Check [this document](https://github.com/riccardobevilacqua/technical-assignment-tips) with tips and tricks we think are important.
